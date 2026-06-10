@@ -55,10 +55,9 @@ class Settings(BaseSettings):
             elif not url.startswith("postgresql+asyncpg://"):
                 url = f"postgresql+asyncpg://{url}"
             # Strip sslmode param; SSL is handled via connect_args in connection.py
+            # Strip all query params; SSL is handled via connect_args in connection.py
             if "?" in url:
-                base, params = url.split("?", 1)
-                filtered = "&".join(p for p in params.split("&") if not p.startswith("sslmode"))
-                url = f"{base}?{filtered}" if filtered else base
+                url = url.split("?")[0]
             return url
 
         return (

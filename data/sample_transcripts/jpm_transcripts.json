@@ -1,0 +1,686 @@
+[
+  {
+    "company_name": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "cik": "0000019617",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the JPMorgan Chase & Co. Q1 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "Our performance this quarter reflects steady execution against our strategic priorities. In Q1 2024, We achieved 24% growth in Chase consumer, which is in the range we expected given current market conditions. Our credit quality strategy continues to gain traction, with Chase consumer showing particularly strong adoption among enterprise customers. We are investing significantly in credit quality because we believe this represents a generational opportunity. The early results from trading validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jamie. Let me walk through the financial details. Total revenue for Q1 2024 was $51.8 billion, representing growth of 1% year over year. Our net interest income reached $15.3 billion, consistent with our expectations. Gross margin was 43.2%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $24.6 billion in free cash flow during the quarter. We returned $2 billion to shareholders through dividends and share repurchases. For investment banking, we saw 8% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in investment banking?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On CET1 ratio, we are pleased with the progress on digital banking and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect investment banking to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On commercial banking, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On CET1 ratio, we are pleased with the progress on interest rate environment and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect commercial banking to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in commercial banking?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On ROE, we are pleased with the progress on digital banking and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect commercial banking to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about digital banking. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On ROE, we are pleased with the progress on digital banking and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect commercial banking to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "cik": "0000019617",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the JPMorgan Chase & Co. Q2 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "While we made progress on key strategic initiatives, our financial results were below our expectations. In Q2 2024, credit loss provisions came in below expectations, reflecting ongoing challenges in the current environment. Our regulatory capital strategy continues to gain traction, with Chase consumer showing particularly strong adoption among enterprise customers. We are investing significantly in regulatory capital because we believe this represents a generational opportunity. The early results from trading validate our approach. We are taking a more measured approach to our outlook and adjusting our spending accordingly."
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jamie. Let me walk through the financial details. Total revenue for Q2 2024 was $69.5 billion, representing a decline of 3% year over year. Our net interest income reached $37.7 billion, consistent with our expectations. Gross margin was 41.1%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $25.9 billion in free cash flow during the quarter. We returned $12 billion to shareholders through dividends and share repurchases. For investment banking, we saw 10% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The net interest income trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On credit loss provisions, while the current environment presents challenges, we are taking proactive steps to position commercial banking for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect commercial banking to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Chase consumer?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On CET1 ratio, while the current environment presents challenges, we are taking proactive steps to position Chase consumer for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Chase consumer to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "cik": "0000019617",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the JPMorgan Chase & Co. Q3 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This quarter demonstrated resilience across our business despite a mixed macroeconomic environment. In Q3 2024, ROE was largely stable compared to the prior quarter, reflecting balanced supply and demand dynamics. Our digital banking strategy continues to gain traction, with Chase consumer showing particularly strong adoption among enterprise customers. We are investing significantly in digital banking because we believe this represents a generational opportunity. The early results from payments validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jamie. Let me walk through the financial details. Total revenue for Q3 2024 was $23.2 billion, representing a decline of 0% year over year. Our net interest income reached $28.1 billion, consistent with our expectations. Gross margin was 39.4%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $23.8 billion in free cash flow during the quarter. We returned $7 billion to shareholders through dividends and share repurchases. For investment banking, we saw 20% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Mark. The CET1 ratio trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in investment banking?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On ROE, we are pleased with the progress on digital banking and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect investment banking to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the CET1 ratio trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Erik. The CET1 ratio trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "cik": "0000019617",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the JPMorgan Chase & Co. Q4 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q4 2024, Revenue of $50.1B represented a 25% increase year over year, consistent with our guidance. Our interest rate environment strategy continues to gain traction, with asset management showing particularly strong adoption among enterprise customers. We are investing significantly in interest rate environment because we believe this represents a generational opportunity. The early results from lending validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jamie. Let me walk through the financial details. Total revenue for Q4 2024 was $62.7 billion, representing a decline of 4% year over year. Our net interest income reached $26.8 billion, consistent with our expectations. Gross margin was 22.8%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $17.6 billion in free cash flow during the quarter. We returned $9 billion to shareholders through dividends and share repurchases. For investment banking, we saw 18% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Keith. The net interest income trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On asset management, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The net interest income trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in commercial banking?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On net interest income, we are pleased with the progress on credit quality and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect commercial banking to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On commercial banking, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The ROE trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On net interest income, we are pleased with the progress on credit quality and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect investment banking to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "cik": "0000019617",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the JPMorgan Chase & Co. Q1 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This quarter demonstrated resilience across our business despite a mixed macroeconomic environment. In Q1 2025, We achieved 8% growth in asset management, which is in the range we expected given current market conditions. Our regulatory capital strategy continues to gain traction, with asset management showing particularly strong adoption among enterprise customers. We are investing significantly in regulatory capital because we believe this represents a generational opportunity. The early results from trading validate our approach. We are maintaining our full-year guidance and continue to invest in long-term growth opportunities."
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jamie. Let me walk through the financial details. Total revenue for Q1 2025 was $92.4 billion, representing growth of 21% year over year. Our net interest income reached $14.6 billion, consistent with our expectations. Gross margin expanded 37.4%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $29.2 billion in free cash flow during the quarter. We returned $14 billion to shareholders through dividends and share repurchases. For investment banking, we saw 7% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the ROE trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On ROE, we are pleased with the progress on interest rate environment and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect commercial banking to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about digital banking. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On ROE, we are pleased with the progress on digital banking and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect investment banking to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Chase consumer?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On CET1 ratio, we are pleased with the progress on digital banking and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Chase consumer to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "cik": "0000019617",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the JPMorgan Chase & Co. Q2 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "I am extremely pleased with our performance this quarter. The momentum we are seeing is unprecedented. In Q2 2025, We saw 13% growth in investment banking, well above our internal targets. Our regulatory capital strategy continues to gain traction, with investment banking showing particularly strong adoption among enterprise customers. We are investing significantly in regulatory capital because we believe this represents a generational opportunity. The early results from wealth management validate our approach. Our pipeline is the strongest it has ever been, and we are raising our full-year guidance accordingly."
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jamie. Let me walk through the financial details. Total revenue for Q2 2025 was $38.3 billion, representing growth of 25% year over year. Our net interest income reached $16.1 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 23.9%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $29.5 billion in free cash flow during the quarter. We returned $15 billion to shareholders through dividends and share repurchases. For investment banking, we saw 16% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On asset management, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On CET1 ratio, we are seeing exceptionally strong demand and our conviction in credit quality has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect asset management to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the CET1 ratio trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On CET1 ratio, we are seeing exceptionally strong demand and our conviction in digital banking has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect investment banking to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On CET1 ratio, we are seeing exceptionally strong demand and our conviction in regulatory capital has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect commercial banking to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in asset management?"
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Mark. The ROE trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the credit loss provisions trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The credit loss provisions trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "cik": "0000019617",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the JPMorgan Chase & Co. Q3 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a challenging quarter as we navigated headwinds across several of our markets. In Q3 2025, credit loss provisions came in below expectations, reflecting ongoing challenges in the current environment. Our interest rate environment strategy continues to gain traction, with asset management showing particularly strong adoption among enterprise customers. We are investing significantly in interest rate environment because we believe this represents a generational opportunity. The early results from trading validate our approach. Given the current visibility, we are revising our guidance range to reflect a more conservative scenario."
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jamie. Let me walk through the financial details. Total revenue for Q3 2025 was $26.8 billion, representing a decline of 2% year over year. Our net interest income reached $16.8 billion, consistent with our expectations. Gross margin was 36.2%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $14.1 billion in free cash flow during the quarter. We returned $9 billion to shareholders through dividends and share repurchases. For investment banking, we saw 25% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about credit quality. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On net interest income, while the current environment presents challenges, we are taking proactive steps to position Chase consumer for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Chase consumer to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the ROE trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The ROE trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On CET1 ratio, while the current environment presents challenges, we are taking proactive steps to position asset management for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect asset management to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "cik": "0000019617",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the JPMorgan Chase & Co. Q4 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "Our results this quarter reflect a more difficult operating environment than we anticipated. In Q4 2025, credit loss provisions came in below expectations, reflecting ongoing challenges in the current environment. Our regulatory capital strategy continues to gain traction, with Chase consumer showing particularly strong adoption among enterprise customers. We are investing significantly in regulatory capital because we believe this represents a generational opportunity. The early results from wealth management validate our approach. We expect near-term headwinds to persist but believe our strategic positioning will drive recovery."
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jamie. Let me walk through the financial details. Total revenue for Q4 2025 was $70.8 billion, representing a decline of 2% year over year. Our net interest income reached $8.5 billion, consistent with our expectations. Gross margin was 42.1%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $20.6 billion in free cash flow during the quarter. We returned $9 billion to shareholders through dividends and share repurchases. For investment banking, we saw 17% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about regulatory capital. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Karl. Great question. On ROE, while the current environment presents challenges, we are taking proactive steps to position Chase consumer for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Chase consumer to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Jeremy Barnum",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brent. The CET1 ratio trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On ROE, while the current environment presents challenges, we are taking proactive steps to position Chase consumer for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Chase consumer to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Jeremy for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jamie Dimon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  }
+]

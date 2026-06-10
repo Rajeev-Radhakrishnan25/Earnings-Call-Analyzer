@@ -1,0 +1,662 @@
+[
+  {
+    "company_name": "ExxonMobil Corp.",
+    "ticker": "XOM",
+    "cik": "0000034088",
+    "sector": "Energy",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the ExxonMobil Corp. Q1 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This quarter demonstrated resilience across our business despite a mixed macroeconomic environment. In Q1 2024, We achieved 23% growth in chemical products, which is in the range we expected given current market conditions. Our Permian Basin strategy continues to gain traction, with chemical products showing particularly strong adoption among enterprise customers. We are investing significantly in Permian Basin because we believe this represents a generational opportunity. The early results from refining validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Darren. Let me walk through the financial details. Total revenue for Q1 2024 was $118.9 billion, representing growth of 12% year over year. Our production volume reached $27.1 billion, consistent with our expectations. Gross margin expanded 37.1%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $28.3 billion in free cash flow during the quarter. We returned $8 billion to shareholders through dividends and share repurchases. For upstream production, we saw 23% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On production volume, we are pleased with the progress on energy transition and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect upstream production to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the production volume trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On production volume, we are pleased with the progress on Permian Basin and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect upstream production to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about energy transition. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On production volume, we are pleased with the progress on energy transition and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect upstream production to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "ExxonMobil Corp.",
+    "ticker": "XOM",
+    "cik": "0000034088",
+    "sector": "Energy",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the ExxonMobil Corp. Q2 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a record-breaking quarter for the company, reflecting the strength of our strategy and execution. In Q2 2024, Revenue grew 24% year over year, significantly ahead of consensus estimates. Our low carbon solutions strategy continues to gain traction, with chemical products showing particularly strong adoption among enterprise customers. We are investing significantly in low carbon solutions because we believe this represents a generational opportunity. The early results from exploration validate our approach. Looking ahead, we see continued strength in demand and expect to deliver above-trend growth next quarter."
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Darren. Let me walk through the financial details. Total revenue for Q2 2024 was $51.2 billion, representing a decline of 1% year over year. Our production volume reached $35.2 billion, accelerating the strong demand trends we have been seeing. Gross margin was 33.2%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $26.3 billion in free cash flow during the quarter. We returned $9 billion to shareholders through dividends and share repurchases. For upstream production, we saw 22% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in upstream production?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On refining margins, we are seeing exceptionally strong demand and our conviction in energy transition has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect upstream production to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the capital expenditure trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On capital expenditure, we are seeing exceptionally strong demand and our conviction in low carbon solutions has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect downstream refining to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in upstream production?"
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "ExxonMobil Corp.",
+    "ticker": "XOM",
+    "cik": "0000034088",
+    "sector": "Energy",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the ExxonMobil Corp. Q3 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q3 2024, free cash flow was largely stable compared to the prior quarter, reflecting balanced supply and demand dynamics. Our low carbon solutions strategy continues to gain traction, with LNG showing particularly strong adoption among enterprise customers. We are investing significantly in low carbon solutions because we believe this represents a generational opportunity. The early results from refining validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Darren. Let me walk through the financial details. Total revenue for Q3 2024 was $98.7 billion, representing a decline of 4% year over year. Our production volume reached $10.3 billion, consistent with our expectations. Gross margin was 24.3%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $11.9 billion in free cash flow during the quarter. We returned $4 billion to shareholders through dividends and share repurchases. For upstream production, we saw 14% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in upstream production?"
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On downstream refining, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The production volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in chemical products?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On refining margins, we are pleased with the progress on energy transition and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect chemical products to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "ExxonMobil Corp.",
+    "ticker": "XOM",
+    "cik": "0000034088",
+    "sector": "Energy",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the ExxonMobil Corp. Q4 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q4 2024, refining margins was largely stable compared to the prior quarter, reflecting balanced supply and demand dynamics. Our Permian Basin strategy continues to gain traction, with LNG showing particularly strong adoption among enterprise customers. We are investing significantly in Permian Basin because we believe this represents a generational opportunity. The early results from carbon capture validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Darren. Let me walk through the financial details. Total revenue for Q4 2024 was $25.3 billion, representing growth of 23% year over year. Our production volume reached $17.6 billion, consistent with our expectations. Gross margin expanded 44.4%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $28.7 billion in free cash flow during the quarter. We returned $10 billion to shareholders through dividends and share repurchases. For upstream production, we saw 20% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the refining margins trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On refining margins, we are pleased with the progress on cost discipline and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect LNG to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about energy transition. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On capital expenditure, we are pleased with the progress on energy transition and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect LNG to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On upstream production, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "ExxonMobil Corp.",
+    "ticker": "XOM",
+    "cik": "0000034088",
+    "sector": "Energy",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the ExxonMobil Corp. Q1 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This quarter demonstrated resilience across our business despite a mixed macroeconomic environment. In Q1 2025, We achieved 8% growth in downstream refining, which is in the range we expected given current market conditions. Our energy transition strategy continues to gain traction, with downstream refining showing particularly strong adoption among enterprise customers. We are investing significantly in energy transition because we believe this represents a generational opportunity. The early results from refining validate our approach. We are maintaining our full-year guidance and continue to invest in long-term growth opportunities."
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Darren. Let me walk through the financial details. Total revenue for Q1 2025 was $59.6 billion, representing growth of 24% year over year. Our production volume reached $34.4 billion, consistent with our expectations. Gross margin expanded 20.3%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $24.9 billion in free cash flow during the quarter. We returned $3 billion to shareholders through dividends and share repurchases. For upstream production, we saw 8% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the free cash flow trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Mark. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the production volume trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Erik. The production volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On downstream refining, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On production volume, we are pleased with the progress on cost discipline and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect downstream refining to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On upstream production, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brad. The production volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "ExxonMobil Corp.",
+    "ticker": "XOM",
+    "cik": "0000034088",
+    "sector": "Energy",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the ExxonMobil Corp. Q2 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "Our performance this quarter reflects steady execution against our strategic priorities. In Q2 2025, refining margins was largely stable compared to the prior quarter, reflecting balanced supply and demand dynamics. Our cost discipline strategy continues to gain traction, with downstream refining showing particularly strong adoption among enterprise customers. We are investing significantly in cost discipline because we believe this represents a generational opportunity. The early results from refining validate our approach. We are maintaining our full-year guidance and continue to invest in long-term growth opportunities."
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Darren. Let me walk through the financial details. Total revenue for Q2 2025 was $77.6 billion, representing growth of 6% year over year. Our production volume reached $23.1 billion, consistent with our expectations. Gross margin expanded 24.9%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $21.2 billion in free cash flow during the quarter. We returned $3 billion to shareholders through dividends and share repurchases. For upstream production, we saw 9% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about energy transition. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The refining margins trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the capital expenditure trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brent. The capital expenditure trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in upstream production?"
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Raimo. The production volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "ExxonMobil Corp.",
+    "ticker": "XOM",
+    "cik": "0000034088",
+    "sector": "Energy",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the ExxonMobil Corp. Q3 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "Our results this quarter reflect a more difficult operating environment than we anticipated. In Q3 2025, Revenue declined 17% year over year to $30.4B, impacted by softening demand in key segments. Our cost discipline strategy continues to gain traction, with LNG showing particularly strong adoption among enterprise customers. We are investing significantly in cost discipline because we believe this represents a generational opportunity. The early results from carbon capture validate our approach. Given the current visibility, we are revising our guidance range to reflect a more conservative scenario."
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Darren. Let me walk through the financial details. Total revenue for Q3 2025 was $71.4 billion, representing a decline of 0% year over year. Our production volume reached $43.3 billion, consistent with our expectations. Gross margin was 20.5%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $30.4 billion in free cash flow during the quarter. We returned $11 billion to shareholders through dividends and share repurchases. For upstream production, we saw 7% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the production volume trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Erik. The production volume trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On downstream refining, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On capital expenditure, while the current environment presents challenges, we are taking proactive steps to position downstream refining for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect downstream refining to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On downstream refining, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On refining margins, while the current environment presents challenges, we are taking proactive steps to position downstream refining for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect downstream refining to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Karl. Great question. On capital expenditure, while the current environment presents challenges, we are taking proactive steps to position upstream production for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect upstream production to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On LNG, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On free cash flow, while the current environment presents challenges, we are taking proactive steps to position LNG for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect LNG to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "ExxonMobil Corp.",
+    "ticker": "XOM",
+    "cik": "0000034088",
+    "sector": "Energy",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the ExxonMobil Corp. Q4 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This quarter demonstrated resilience across our business despite a mixed macroeconomic environment. In Q4 2025, production volume was largely stable compared to the prior quarter, reflecting balanced supply and demand dynamics. Our cost discipline strategy continues to gain traction, with upstream production showing particularly strong adoption among enterprise customers. We are investing significantly in cost discipline because we believe this represents a generational opportunity. The early results from exploration validate our approach. For the upcoming quarter, we expect results roughly in line with seasonal patterns."
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Darren. Let me walk through the financial details. Total revenue for Q4 2025 was $110.7 billion, representing growth of 1% year over year. Our production volume reached $5.6 billion, consistent with our expectations. Gross margin was 28.8%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $13.4 billion in free cash flow during the quarter. We returned $11 billion to shareholders through dividends and share repurchases. For upstream production, we saw 12% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the free cash flow trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On free cash flow, we are pleased with the progress on low carbon solutions and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect chemical products to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in upstream production?"
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On production volume, we are pleased with the progress on cost discipline and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect upstream production to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Kathryn for the specific numbers."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in upstream production?"
+      },
+      {
+        "speaker_name": "Kathryn Mikells",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Mark. The refining margins trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Darren Woods",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  }
+]

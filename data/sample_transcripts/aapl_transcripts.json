@@ -1,0 +1,746 @@
+[
+  {
+    "company_name": "Apple Inc.",
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Apple Inc. Q1 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "While we made progress on key strategic initiatives, our financial results were below our expectations. In Q1 2024, R&D spending came in below expectations, reflecting ongoing challenges in the current environment. Our AI integration strategy continues to gain traction, with iPad showing particularly strong adoption among enterprise customers. We are investing significantly in AI integration because we believe this represents a generational opportunity. The early results from App Store validate our approach. Given the current visibility, we are revising our guidance range to reflect a more conservative scenario."
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Tim. Let me walk through the financial details. Total revenue for Q1 2024 was $80.3 billion, representing growth of 3% year over year. Our services revenue reached $38.5 billion, consistent with our expectations. Gross margin was 36.1%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $8.7 billion in free cash flow during the quarter. We returned $10 billion to shareholders through dividends and share repurchases. For iPhone, we saw 8% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On iPhone, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The R&D spending trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the installed base trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On installed base, while the current environment presents challenges, we are taking proactive steps to position Mac for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Mac to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about silicon transition. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Erik. The R&D spending trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The installed base trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in iPad?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Shannon. The installed base trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Apple Inc.",
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Apple Inc. Q2 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a record-breaking quarter for the company, reflecting the strength of our strategy and execution. In Q2 2024, Our R&D spending reached an all-time high of $84.4B, driven by strong demand across all regions. Our silicon transition strategy continues to gain traction, with iPhone showing particularly strong adoption among enterprise customers. We are investing significantly in silicon transition because we believe this represents a generational opportunity. The early results from iCloud validate our approach. Our pipeline is the strongest it has ever been, and we are raising our full-year guidance accordingly."
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Tim. Let me walk through the financial details. Total revenue for Q2 2024 was $35.9 billion, representing growth of 27% year over year. Our services revenue reached $11.5 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 31.1%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $26.6 billion in free cash flow during the quarter. We returned $9 billion to shareholders through dividends and share repurchases. For iPhone, we saw 19% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about privacy. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Raimo. The gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about sustainability. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Keith. The gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Apple Inc.",
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Apple Inc. Q3 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "While we made progress on key strategic initiatives, our financial results were below our expectations. In Q3 2024, We saw a 23% decline in iPad as customers delayed purchasing decisions amid macro uncertainty. Our sustainability strategy continues to gain traction, with iPad showing particularly strong adoption among enterprise customers. We are investing significantly in sustainability because we believe this represents a generational opportunity. The early results from App Store validate our approach. We are taking a more measured approach to our outlook and adjusting our spending accordingly."
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Tim. Let me walk through the financial details. Total revenue for Q3 2024 was $60.2 billion, representing a decline of 4% year over year. Our services revenue reached $44.8 billion, consistent with our expectations. Gross margin was 39.2%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $25.9 billion in free cash flow during the quarter. We returned $7 billion to shareholders through dividends and share repurchases. For iPhone, we saw 14% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in iPhone?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Shannon. The gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On installed base, while the current environment presents challenges, we are taking proactive steps to position Mac for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Mac to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in iPhone?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brent. The gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the gross margin trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Karl. Great question. On gross margin, while the current environment presents challenges, we are taking proactive steps to position Mac for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Mac to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the R&D spending trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The R&D spending trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Apple Inc.",
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Apple Inc. Q4 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered an outstanding quarter with results exceeding our expectations across every segment. In Q4 2024, Our gross margin reached an all-time high of $68.1B, driven by strong demand across all regions. Our silicon transition strategy continues to gain traction, with Apple Watch showing particularly strong adoption among enterprise customers. We are investing significantly in silicon transition because we believe this represents a generational opportunity. The early results from Apple TV+ validate our approach. Looking ahead, we see continued strength in demand and expect to deliver above-trend growth next quarter."
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Tim. Let me walk through the financial details. Total revenue for Q4 2024 was $44.1 billion, representing a decline of 1% year over year. Our services revenue reached $35.8 billion, accelerating the strong demand trends we have been seeing. Gross margin was 36.1%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $26.8 billion in free cash flow during the quarter. We returned $2 billion to shareholders through dividends and share repurchases. For iPhone, we saw 24% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Mac, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On R&D spending, we are seeing exceptionally strong demand and our conviction in silicon transition has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Mac to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Apple Watch, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brad. The gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On iPhone, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Raimo. The installed base trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Apple Inc.",
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Apple Inc. Q1 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "I am extremely pleased with our performance this quarter. The momentum we are seeing is unprecedented. In Q1 2025, Our installed base reached an all-time high of $23.2B, driven by strong demand across all regions. Our AI integration strategy continues to gain traction, with Mac showing particularly strong adoption among enterprise customers. We are investing significantly in AI integration because we believe this represents a generational opportunity. The early results from Apple Music validate our approach. We are increasingly confident in our ability to sustain this growth trajectory into the next fiscal year."
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Tim. Let me walk through the financial details. Total revenue for Q1 2025 was $113.6 billion, representing growth of 11% year over year. Our services revenue reached $17.7 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 26.2%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $12.2 billion in free cash flow during the quarter. We returned $6 billion to shareholders through dividends and share repurchases. For iPhone, we saw 9% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Mac?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On R&D spending, we are seeing exceptionally strong demand and our conviction in silicon transition has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Mac to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in iPhone?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On gross margin, we are seeing exceptionally strong demand and our conviction in sustainability has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect iPhone to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Mac, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On installed base, we are seeing exceptionally strong demand and our conviction in AI integration has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Mac to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the R&D spending trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The R&D spending trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On services revenue, we are seeing exceptionally strong demand and our conviction in silicon transition has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Vision Pro to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Apple Inc.",
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Apple Inc. Q2 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "Our performance this quarter reflects steady execution against our strategic priorities. In Q2 2025, Revenue of $46.9B represented a 11% increase year over year, consistent with our guidance. Our AI integration strategy continues to gain traction, with iPad showing particularly strong adoption among enterprise customers. We are investing significantly in AI integration because we believe this represents a generational opportunity. The early results from Apple Pay validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Tim. Let me walk through the financial details. Total revenue for Q2 2025 was $41.7 billion, representing growth of 27% year over year. Our services revenue reached $6.6 billion, consistent with our expectations. Gross margin expanded 20.1%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $27.5 billion in free cash flow during the quarter. We returned $2 billion to shareholders through dividends and share repurchases. For iPhone, we saw 19% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Vision Pro, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The installed base trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Wamsi. The gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Apple Watch, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On R&D spending, we are pleased with the progress on sustainability and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Apple Watch to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about silicon transition. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On gross margin, we are pleased with the progress on silicon transition and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect iPhone to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Apple Inc.",
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Apple Inc. Q3 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "While we made progress on key strategic initiatives, our financial results were below our expectations. In Q3 2025, Revenue declined 27% year over year to $19.8B, impacted by softening demand in key segments. Our sustainability strategy continues to gain traction, with Mac showing particularly strong adoption among enterprise customers. We are investing significantly in sustainability because we believe this represents a generational opportunity. The early results from iCloud validate our approach. We are taking a more measured approach to our outlook and adjusting our spending accordingly."
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Tim. Let me walk through the financial details. Total revenue for Q3 2025 was $29.8 billion, representing a decline of 2% year over year. Our services revenue reached $29.8 billion, consistent with our expectations. Gross margin was 39.7%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $11.1 billion in free cash flow during the quarter. We returned $6 billion to shareholders through dividends and share repurchases. For iPhone, we saw 14% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the R&D spending trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On R&D spending, while the current environment presents challenges, we are taking proactive steps to position Apple Watch for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Apple Watch to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Vision Pro?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On gross margin, while the current environment presents challenges, we are taking proactive steps to position Vision Pro for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Vision Pro to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about sustainability. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On gross margin, while the current environment presents challenges, we are taking proactive steps to position Vision Pro for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Vision Pro to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On iPad, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Wamsi. The gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in iPad?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Raimo. The R&D spending trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Apple Inc.",
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Apple Inc. Q4 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered an outstanding quarter with results exceeding our expectations across every segment. In Q4 2025, We saw 11% growth in iPad, well above our internal targets. Our sustainability strategy continues to gain traction, with iPad showing particularly strong adoption among enterprise customers. We are investing significantly in sustainability because we believe this represents a generational opportunity. The early results from Apple Pay validate our approach. Our pipeline is the strongest it has ever been, and we are raising our full-year guidance accordingly."
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Tim. Let me walk through the financial details. Total revenue for Q4 2025 was $53.7 billion, representing growth of 16% year over year. Our services revenue reached $42.6 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 31.8%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $27.6 billion in free cash flow during the quarter. We returned $3 billion to shareholders through dividends and share repurchases. For iPhone, we saw 15% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Apple Watch?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The services revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Luca Maestri",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Mark. The installed base trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On services revenue, we are seeing exceptionally strong demand and our conviction in privacy has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect iPad to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in iPad?"
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On R&D spending, we are seeing exceptionally strong demand and our conviction in privacy has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect iPad to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Luca for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Tim Cook",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  }
+]

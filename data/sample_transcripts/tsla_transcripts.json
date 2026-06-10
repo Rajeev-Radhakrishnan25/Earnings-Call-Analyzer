@@ -1,0 +1,734 @@
+[
+  {
+    "company_name": "Tesla Inc.",
+    "ticker": "TSLA",
+    "cik": "0001318605",
+    "sector": "Automotive",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Tesla Inc. Q1 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "I am extremely pleased with our performance this quarter. The momentum we are seeing is unprecedented. In Q1 2024, Our deliveries reached an all-time high of $89.3B, driven by strong demand across all regions. Our manufacturing efficiency strategy continues to gain traction, with Model 3 showing particularly strong adoption among enterprise customers. We are investing significantly in manufacturing efficiency because we believe this represents a generational opportunity. The early results from insurance validate our approach. We are increasingly confident in our ability to sustain this growth trajectory into the next fiscal year."
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Elon. Let me walk through the financial details. Total revenue for Q1 2024 was $110.9 billion, representing growth of 3% year over year. Our deliveries reached $39.8 billion, accelerating the strong demand trends we have been seeing. Gross margin was 35.3%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $11.8 billion in free cash flow during the quarter. We returned $4 billion to shareholders through dividends and share repurchases. For Model Y, we saw 11% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On energy revenue, we are seeing exceptionally strong demand and our conviction in energy business growth has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Cybertruck to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the free cash flow trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Karl. Great question. On free cash flow, we are seeing exceptionally strong demand and our conviction in manufacturing efficiency has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Megapack to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about cost reduction. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Mark. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the deliveries trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The deliveries trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Tesla Inc.",
+    "ticker": "TSLA",
+    "cik": "0001318605",
+    "sector": "Automotive",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Tesla Inc. Q2 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered an outstanding quarter with results exceeding our expectations across every segment. In Q2 2024, Our deliveries reached an all-time high of $56.1B, driven by strong demand across all regions. Our energy business growth strategy continues to gain traction, with Model Y showing particularly strong adoption among enterprise customers. We are investing significantly in energy business growth because we believe this represents a generational opportunity. The early results from FSD validate our approach. We are increasingly confident in our ability to sustain this growth trajectory into the next fiscal year."
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Elon. Let me walk through the financial details. Total revenue for Q2 2024 was $66.7 billion, representing growth of 26% year over year. Our deliveries reached $46.1 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 33.5%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $12.8 billion in free cash flow during the quarter. We returned $3 billion to shareholders through dividends and share repurchases. For Model Y, we saw 11% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the deliveries trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Shannon. The deliveries trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the energy revenue trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The energy revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The deliveries trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Tesla Inc.",
+    "ticker": "TSLA",
+    "cik": "0001318605",
+    "sector": "Automotive",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Tesla Inc. Q3 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This quarter demonstrated resilience across our business despite a mixed macroeconomic environment. In Q3 2024, We achieved 13% growth in Model 3, which is in the range we expected given current market conditions. Our cost reduction strategy continues to gain traction, with Model 3 showing particularly strong adoption among enterprise customers. We are investing significantly in cost reduction because we believe this represents a generational opportunity. The early results from FSD validate our approach. For the upcoming quarter, we expect results roughly in line with seasonal patterns."
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Elon. Let me walk through the financial details. Total revenue for Q3 2024 was $76.3 billion, representing a decline of 0% year over year. Our deliveries reached $31.7 billion, consistent with our expectations. Gross margin was 27.1%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $26.6 billion in free cash flow during the quarter. We returned $12 billion to shareholders through dividends and share repurchases. For Model Y, we saw 5% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Model Y?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On free cash flow, we are pleased with the progress on cost reduction and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Model Y to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about energy business growth. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Shannon. The deliveries trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the energy revenue trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The energy revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Model 3, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Erik. The energy revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Tesla Inc.",
+    "ticker": "TSLA",
+    "cik": "0001318605",
+    "sector": "Automotive",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Tesla Inc. Q4 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "I am extremely pleased with our performance this quarter. The momentum we are seeing is unprecedented. In Q4 2024, Our free cash flow reached an all-time high of $25.5B, driven by strong demand across all regions. Our FSD progress strategy continues to gain traction, with Megapack showing particularly strong adoption among enterprise customers. We are investing significantly in FSD progress because we believe this represents a generational opportunity. The early results from Supercharger network validate our approach. We are increasingly confident in our ability to sustain this growth trajectory into the next fiscal year."
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Elon. Let me walk through the financial details. Total revenue for Q4 2024 was $76.3 billion, representing a decline of 3% year over year. Our deliveries reached $24.9 billion, accelerating the strong demand trends we have been seeing. Gross margin was 25.8%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $10.2 billion in free cash flow during the quarter. We returned $7 billion to shareholders through dividends and share repurchases. For Model Y, we saw 18% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Model Y?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On free cash flow, we are seeing exceptionally strong demand and our conviction in manufacturing efficiency has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Model Y to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Model Y?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Shannon. The energy revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Model 3, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On free cash flow, we are seeing exceptionally strong demand and our conviction in FSD progress has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Model 3 to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Tesla Inc.",
+    "ticker": "TSLA",
+    "cik": "0001318605",
+    "sector": "Automotive",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Tesla Inc. Q1 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q1 2025, We achieved 13% growth in Megapack, which is in the range we expected given current market conditions. Our manufacturing efficiency strategy continues to gain traction, with Megapack showing particularly strong adoption among enterprise customers. We are investing significantly in manufacturing efficiency because we believe this represents a generational opportunity. The early results from FSD validate our approach. For the upcoming quarter, we expect results roughly in line with seasonal patterns."
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Elon. Let me walk through the financial details. Total revenue for Q1 2025 was $99.2 billion, representing a decline of 0% year over year. Our deliveries reached $14.1 billion, consistent with our expectations. Gross margin was 30.9%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $6.4 billion in free cash flow during the quarter. We returned $13 billion to shareholders through dividends and share repurchases. For Model Y, we saw 20% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Model Y?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Semi?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On energy revenue, we are pleased with the progress on manufacturing efficiency and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Semi to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Cybertruck, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On free cash flow, we are pleased with the progress on FSD progress and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Cybertruck to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about manufacturing efficiency. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On free cash flow, we are pleased with the progress on manufacturing efficiency and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Model Y to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Tesla Inc.",
+    "ticker": "TSLA",
+    "cik": "0001318605",
+    "sector": "Automotive",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Tesla Inc. Q2 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "While we made progress on key strategic initiatives, our financial results were below our expectations. In Q2 2025, We saw a 24% decline in Model 3 as customers delayed purchasing decisions amid macro uncertainty. Our FSD progress strategy continues to gain traction, with Model 3 showing particularly strong adoption among enterprise customers. We are investing significantly in FSD progress because we believe this represents a generational opportunity. The early results from Supercharger network validate our approach. Given the current visibility, we are revising our guidance range to reflect a more conservative scenario."
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Elon. Let me walk through the financial details. Total revenue for Q2 2025 was $57.2 billion, representing a decline of 7% year over year. Our deliveries reached $13.7 billion, consistent with our expectations. Gross margin was 37.8%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $26.1 billion in free cash flow during the quarter. We returned $13 billion to shareholders through dividends and share repurchases. For Model Y, we saw 8% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Model 3, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On energy revenue, while the current environment presents challenges, we are taking proactive steps to position Model 3 for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Model 3 to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Cybertruck?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On automotive gross margin, while the current environment presents challenges, we are taking proactive steps to position Cybertruck for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Cybertruck to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Cybertruck?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The deliveries trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Model 3?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On automotive gross margin, while the current environment presents challenges, we are taking proactive steps to position Model 3 for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Model 3 to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Semi, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brad. The energy revenue trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Tesla Inc.",
+    "ticker": "TSLA",
+    "cik": "0001318605",
+    "sector": "Automotive",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Tesla Inc. Q3 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q3 2025, deliveries was largely stable compared to the prior quarter, reflecting balanced supply and demand dynamics. Our manufacturing efficiency strategy continues to gain traction, with Megapack showing particularly strong adoption among enterprise customers. We are investing significantly in manufacturing efficiency because we believe this represents a generational opportunity. The early results from insurance validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Elon. Let me walk through the financial details. Total revenue for Q3 2025 was $85.7 billion, representing a decline of 5% year over year. Our deliveries reached $7.9 billion, consistent with our expectations. Gross margin was 32.7%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $17.9 billion in free cash flow during the quarter. We returned $5 billion to shareholders through dividends and share repurchases. For Model Y, we saw 23% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about FSD progress. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On automotive gross margin, we are pleased with the progress on FSD progress and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Model Y to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Mark. The automotive gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Karl. Great question. On automotive gross margin, we are pleased with the progress on FSD progress and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Semi to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Semi?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The deliveries trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Tesla Inc.",
+    "ticker": "TSLA",
+    "cik": "0001318605",
+    "sector": "Automotive",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Tesla Inc. Q4 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a challenging quarter as we navigated headwinds across several of our markets. In Q4 2025, Revenue declined 15% year over year to $53.7B, impacted by softening demand in key segments. Our manufacturing efficiency strategy continues to gain traction, with Model Y showing particularly strong adoption among enterprise customers. We are investing significantly in manufacturing efficiency because we believe this represents a generational opportunity. The early results from Supercharger network validate our approach. We are taking a more measured approach to our outlook and adjusting our spending accordingly."
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Elon. Let me walk through the financial details. Total revenue for Q4 2025 was $110.7 billion, representing growth of 4% year over year. Our deliveries reached $22.1 billion, consistent with our expectations. Gross margin was 21.4%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $22.7 billion in free cash flow during the quarter. We returned $15 billion to shareholders through dividends and share repurchases. For Model Y, we saw 25% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Model Y?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Wamsi. The automotive gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about FSD progress. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Keith. The deliveries trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Megapack, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On automotive gross margin, while the current environment presents challenges, we are taking proactive steps to position Megapack for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Megapack to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Semi, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On energy revenue, while the current environment presents challenges, we are taking proactive steps to position Semi for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Semi to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Vaibhav for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Model 3, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Vaibhav Taneja",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brad. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Elon Musk",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  }
+]

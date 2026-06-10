@@ -1,0 +1,698 @@
+[
+  {
+    "company_name": "Oracle Corp.",
+    "ticker": "ORCL",
+    "cik": "0001341439",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Oracle Corp. Q1 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "Our performance this quarter reflects steady execution against our strategic priorities. In Q1 2024, remaining performance obligations was largely stable compared to the prior quarter, reflecting balanced supply and demand dynamics. Our AI integration strategy continues to gain traction, with Fusion showing particularly strong adoption among enterprise customers. We are investing significantly in AI integration because we believe this represents a generational opportunity. The early results from enterprise solutions validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Safra. Let me walk through the financial details. Total revenue for Q1 2024 was $93.3 billion, representing growth of 4% year over year. Our cloud revenue reached $37.6 billion, consistent with our expectations. Gross margin was 21.5%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $16.2 billion in free cash flow during the quarter. We returned $9 billion to shareholders through dividends and share repurchases. For Oracle Cloud Infrastructure, we saw 11% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about database modernization. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On cloud revenue, we are pleased with the progress on database modernization and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Autonomous Database to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Oracle Cloud Infrastructure, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On remaining performance obligations, we are pleased with the progress on database modernization and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Oracle Cloud Infrastructure to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On cloud revenue, we are pleased with the progress on OCI growth and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Autonomous Database to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On NetSuite, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On operating margin, we are pleased with the progress on database modernization and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect NetSuite to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about database modernization. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On operating margin, we are pleased with the progress on database modernization and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect NetSuite to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Oracle Corp.",
+    "ticker": "ORCL",
+    "cik": "0001341439",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Oracle Corp. Q2 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered an outstanding quarter with results exceeding our expectations across every segment. In Q2 2024, We saw 16% growth in Oracle Cloud Infrastructure, well above our internal targets. Our database modernization strategy continues to gain traction, with Oracle Cloud Infrastructure showing particularly strong adoption among enterprise customers. We are investing significantly in database modernization because we believe this represents a generational opportunity. The early results from cloud applications validate our approach. Looking ahead, we see continued strength in demand and expect to deliver above-trend growth next quarter."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Safra. Let me walk through the financial details. Total revenue for Q2 2024 was $62.4 billion, representing growth of 4% year over year. Our cloud revenue reached $18.4 billion, accelerating the strong demand trends we have been seeing. Gross margin was 30.7%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $29.6 billion in free cash flow during the quarter. We returned $11 billion to shareholders through dividends and share repurchases. For Oracle Cloud Infrastructure, we saw 16% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the remaining performance obligations trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On remaining performance obligations, we are seeing exceptionally strong demand and our conviction in AI integration has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Oracle Cloud Infrastructure to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On NetSuite, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On operating margin, we are seeing exceptionally strong demand and our conviction in multi-cloud strategy has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect NetSuite to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the cloud revenue trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On cloud revenue, we are seeing exceptionally strong demand and our conviction in AI integration has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect NetSuite to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Oracle Corp.",
+    "ticker": "ORCL",
+    "cik": "0001341439",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Oracle Corp. Q3 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q3 2024, We achieved 13% growth in Fusion, which is in the range we expected given current market conditions. Our multi-cloud strategy strategy continues to gain traction, with Fusion showing particularly strong adoption among enterprise customers. We are investing significantly in multi-cloud strategy because we believe this represents a generational opportunity. The early results from enterprise solutions validate our approach. We are maintaining our full-year guidance and continue to invest in long-term growth opportunities."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Safra. Let me walk through the financial details. Total revenue for Q3 2024 was $53.7 billion, representing growth of 13% year over year. Our cloud revenue reached $40.1 billion, consistent with our expectations. Gross margin expanded 26.2%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $23.6 billion in free cash flow during the quarter. We returned $13 billion to shareholders through dividends and share repurchases. For Oracle Cloud Infrastructure, we saw 21% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Oracle Cloud Infrastructure, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On remaining performance obligations, we are pleased with the progress on multi-cloud strategy and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Oracle Cloud Infrastructure to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Autonomous Database?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On cloud revenue, we are pleased with the progress on database modernization and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Autonomous Database to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On NetSuite, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On remaining performance obligations, we are pleased with the progress on OCI growth and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect NetSuite to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Autonomous Database, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On remaining performance obligations, we are pleased with the progress on AI integration and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Autonomous Database to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Oracle Corp.",
+    "ticker": "ORCL",
+    "cik": "0001341439",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Oracle Corp. Q4 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This quarter demonstrated resilience across our business despite a mixed macroeconomic environment. In Q4 2024, We achieved 7% growth in Fusion, which is in the range we expected given current market conditions. Our multi-cloud strategy strategy continues to gain traction, with Fusion showing particularly strong adoption among enterprise customers. We are investing significantly in multi-cloud strategy because we believe this represents a generational opportunity. The early results from enterprise solutions validate our approach. We are maintaining our full-year guidance and continue to invest in long-term growth opportunities."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Safra. Let me walk through the financial details. Total revenue for Q4 2024 was $80.1 billion, representing growth of 2% year over year. Our cloud revenue reached $29.8 billion, consistent with our expectations. Gross margin was 40.2%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $26.2 billion in free cash flow during the quarter. We returned $7 billion to shareholders through dividends and share repurchases. For Oracle Cloud Infrastructure, we saw 13% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the operating margin trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On operating margin, we are pleased with the progress on database modernization and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Oracle Cloud Infrastructure to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Autonomous Database?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On cloud revenue, we are pleased with the progress on database modernization and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Autonomous Database to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about multi-cloud strategy. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On cloud revenue, we are pleased with the progress on multi-cloud strategy and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Autonomous Database to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On remaining performance obligations, we are pleased with the progress on database modernization and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Oracle Cloud Infrastructure to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Oracle Corp.",
+    "ticker": "ORCL",
+    "cik": "0001341439",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Oracle Corp. Q1 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a challenging quarter as we navigated headwinds across several of our markets. In Q1 2025, operating margin came in below expectations, reflecting ongoing challenges in the current environment. Our AI integration strategy continues to gain traction, with Fusion showing particularly strong adoption among enterprise customers. We are investing significantly in AI integration because we believe this represents a generational opportunity. The early results from cloud applications validate our approach. We expect near-term headwinds to persist but believe our strategic positioning will drive recovery."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Safra. Let me walk through the financial details. Total revenue for Q1 2025 was $51.5 billion, representing a decline of 1% year over year. Our cloud revenue reached $42.5 billion, consistent with our expectations. Gross margin was 32.7%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $26.9 billion in free cash flow during the quarter. We returned $11 billion to shareholders through dividends and share repurchases. For Oracle Cloud Infrastructure, we saw 10% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Fusion?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On remaining performance obligations, while the current environment presents challenges, we are taking proactive steps to position Fusion for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Fusion to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Autonomous Database, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On operating margin, while the current environment presents challenges, we are taking proactive steps to position Autonomous Database for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Autonomous Database to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On cloud revenue, while the current environment presents challenges, we are taking proactive steps to position NetSuite for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect NetSuite to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Oracle Corp.",
+    "ticker": "ORCL",
+    "cik": "0001341439",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Oracle Corp. Q2 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "I am extremely pleased with our performance this quarter. The momentum we are seeing is unprecedented. In Q2 2025, Revenue grew 19% year over year, significantly ahead of consensus estimates. Our database modernization strategy continues to gain traction, with Fusion showing particularly strong adoption among enterprise customers. We are investing significantly in database modernization because we believe this represents a generational opportunity. The early results from enterprise solutions validate our approach. Our pipeline is the strongest it has ever been, and we are raising our full-year guidance accordingly."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Safra. Let me walk through the financial details. Total revenue for Q2 2025 was $111.8 billion, representing growth of 8% year over year. Our cloud revenue reached $42.3 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 21.3%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $8.8 billion in free cash flow during the quarter. We returned $6 billion to shareholders through dividends and share repurchases. For Oracle Cloud Infrastructure, we saw 16% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Oracle Cloud Infrastructure, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On operating margin, we are seeing exceptionally strong demand and our conviction in OCI growth has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Oracle Cloud Infrastructure to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Fusion?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On operating margin, we are seeing exceptionally strong demand and our conviction in database modernization has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Fusion to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Oracle Cloud Infrastructure, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On remaining performance obligations, we are seeing exceptionally strong demand and our conviction in OCI growth has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Oracle Cloud Infrastructure to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Oracle Corp.",
+    "ticker": "ORCL",
+    "cik": "0001341439",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Oracle Corp. Q3 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "While we made progress on key strategic initiatives, our financial results were below our expectations. In Q3 2025, Revenue declined 21% year over year to $39.3B, impacted by softening demand in key segments. Our multi-cloud strategy strategy continues to gain traction, with Oracle Cloud Infrastructure showing particularly strong adoption among enterprise customers. We are investing significantly in multi-cloud strategy because we believe this represents a generational opportunity. The early results from database services validate our approach. We expect near-term headwinds to persist but believe our strategic positioning will drive recovery."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Safra. Let me walk through the financial details. Total revenue for Q3 2025 was $108.2 billion, representing growth of 3% year over year. Our cloud revenue reached $15.2 billion, consistent with our expectations. Gross margin was 35.8%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $26.4 billion in free cash flow during the quarter. We returned $11 billion to shareholders through dividends and share repurchases. For Oracle Cloud Infrastructure, we saw 22% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the operating margin trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On operating margin, while the current environment presents challenges, we are taking proactive steps to position Autonomous Database for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Autonomous Database to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about AI integration. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On operating margin, while the current environment presents challenges, we are taking proactive steps to position Fusion for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Fusion to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in NetSuite?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On remaining performance obligations, while the current environment presents challenges, we are taking proactive steps to position NetSuite for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect NetSuite to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Oracle Corp.",
+    "ticker": "ORCL",
+    "cik": "0001341439",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Oracle Corp. Q4 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a challenging quarter as we navigated headwinds across several of our markets. In Q4 2025, operating margin came in below expectations, reflecting ongoing challenges in the current environment. Our OCI growth strategy continues to gain traction, with Oracle Cloud Infrastructure showing particularly strong adoption among enterprise customers. We are investing significantly in OCI growth because we believe this represents a generational opportunity. The early results from cloud applications validate our approach. We expect near-term headwinds to persist but believe our strategic positioning will drive recovery."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Safra. Let me walk through the financial details. Total revenue for Q4 2025 was $120.7 billion, representing a decline of 5% year over year. Our cloud revenue reached $41.2 billion, consistent with our expectations. Gross margin was 24.9%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $16.8 billion in free cash flow during the quarter. We returned $9 billion to shareholders through dividends and share repurchases. For Oracle Cloud Infrastructure, we saw 21% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On operating margin, while the current environment presents challenges, we are taking proactive steps to position Autonomous Database for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Autonomous Database to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On operating margin, while the current environment presents challenges, we are taking proactive steps to position NetSuite for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect NetSuite to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Fusion, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Karl. Great question. On operating margin, while the current environment presents challenges, we are taking proactive steps to position Fusion for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Fusion to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On operating margin, while the current environment presents challenges, we are taking proactive steps to position NetSuite for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect NetSuite to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the cloud revenue trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On cloud revenue, while the current environment presents challenges, we are taking proactive steps to position Autonomous Database for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Autonomous Database to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Safra for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Safra Catz",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  }
+]

@@ -1,0 +1,734 @@
+[
+  {
+    "company_name": "Salesforce Inc.",
+    "ticker": "CRM",
+    "cik": "0001108524",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Salesforce Inc. Q1 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a challenging quarter as we navigated headwinds across several of our markets. In Q1 2024, We saw a 20% decline in Data Cloud as customers delayed purchasing decisions amid macro uncertainty. Our Einstein AI strategy continues to gain traction, with Data Cloud showing particularly strong adoption among enterprise customers. We are investing significantly in Einstein AI because we believe this represents a generational opportunity. The early results from industry solutions validate our approach. Given the current visibility, we are revising our guidance range to reflect a more conservative scenario."
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Marc. Let me walk through the financial details. Total revenue for Q1 2024 was $80.9 billion, representing a decline of 6% year over year. Our subscription revenue reached $13.2 billion, consistent with our expectations. Gross margin was 21.3%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $27.6 billion in free cash flow during the quarter. We returned $13 billion to shareholders through dividends and share repurchases. For Sales Cloud, we saw 8% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about platform consolidation. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On RPO, while the current environment presents challenges, we are taking proactive steps to position Tableau for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Tableau to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about platform consolidation. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On RPO, while the current environment presents challenges, we are taking proactive steps to position Data Cloud for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Data Cloud to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about platform consolidation. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On free cash flow, while the current environment presents challenges, we are taking proactive steps to position Tableau for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Tableau to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Shannon. The subscription revenue trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Salesforce Inc.",
+    "ticker": "CRM",
+    "cik": "0001108524",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Salesforce Inc. Q2 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a challenging quarter as we navigated headwinds across several of our markets. In Q2 2024, Revenue declined 17% year over year to $75.6B, impacted by softening demand in key segments. Our platform consolidation strategy continues to gain traction, with Slack showing particularly strong adoption among enterprise customers. We are investing significantly in platform consolidation because we believe this represents a generational opportunity. The early results from CRM platform validate our approach. We expect near-term headwinds to persist but believe our strategic positioning will drive recovery."
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Marc. Let me walk through the financial details. Total revenue for Q2 2024 was $59.4 billion, representing a decline of 1% year over year. Our subscription revenue reached $28.8 billion, consistent with our expectations. Gross margin was 36.2%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $22.2 billion in free cash flow during the quarter. We returned $6 billion to shareholders through dividends and share repurchases. For Sales Cloud, we saw 5% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brad. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Mark. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the subscription revenue trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On subscription revenue, while the current environment presents challenges, we are taking proactive steps to position Data Cloud for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Data Cloud to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Salesforce Inc.",
+    "ticker": "CRM",
+    "cik": "0001108524",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Salesforce Inc. Q3 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "I am extremely pleased with our performance this quarter. The momentum we are seeing is unprecedented. In Q3 2024, We saw 9% growth in Service Cloud, well above our internal targets. Our Einstein AI strategy continues to gain traction, with Service Cloud showing particularly strong adoption among enterprise customers. We are investing significantly in Einstein AI because we believe this represents a generational opportunity. The early results from industry solutions validate our approach. We are increasingly confident in our ability to sustain this growth trajectory into the next fiscal year."
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Marc. Let me walk through the financial details. Total revenue for Q3 2024 was $57.2 billion, representing growth of 12% year over year. Our subscription revenue reached $6.7 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 21.2%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $12.6 billion in free cash flow during the quarter. We returned $15 billion to shareholders through dividends and share repurchases. For Sales Cloud, we saw 12% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the subscription revenue trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Wamsi. The subscription revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the free cash flow trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On free cash flow, we are seeing exceptionally strong demand and our conviction in Einstein AI has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Data Cloud to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Slack?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Keith. The subscription revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brent. The subscription revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the free cash flow trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Salesforce Inc.",
+    "ticker": "CRM",
+    "cik": "0001108524",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Salesforce Inc. Q4 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "Our results this quarter reflect a more difficult operating environment than we anticipated. In Q4 2024, We saw a 20% decline in Sales Cloud as customers delayed purchasing decisions amid macro uncertainty. Our margin expansion strategy continues to gain traction, with Sales Cloud showing particularly strong adoption among enterprise customers. We are investing significantly in margin expansion because we believe this represents a generational opportunity. The early results from enterprise integration validate our approach. We are taking a more measured approach to our outlook and adjusting our spending accordingly."
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Marc. Let me walk through the financial details. Total revenue for Q4 2024 was $91.3 billion, representing a decline of 0% year over year. Our subscription revenue reached $23.4 billion, consistent with our expectations. Gross margin was 32.1%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $21.5 billion in free cash flow during the quarter. We returned $7 billion to shareholders through dividends and share repurchases. For Sales Cloud, we saw 10% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Mark. The operating margin trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Data Cloud?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the RPO trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The RPO trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Data Cloud?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On free cash flow, while the current environment presents challenges, we are taking proactive steps to position Data Cloud for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Data Cloud to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Salesforce Inc.",
+    "ticker": "CRM",
+    "cik": "0001108524",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Salesforce Inc. Q1 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q1 2025, subscription revenue was largely stable compared to the prior quarter, reflecting balanced supply and demand dynamics. Our platform consolidation strategy continues to gain traction, with Service Cloud showing particularly strong adoption among enterprise customers. We are investing significantly in platform consolidation because we believe this represents a generational opportunity. The early results from CRM platform validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Marc. Let me walk through the financial details. Total revenue for Q1 2025 was $108.6 billion, representing growth of 21% year over year. Our subscription revenue reached $33.4 billion, consistent with our expectations. Gross margin expanded 36.6%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $16.1 billion in free cash flow during the quarter. We returned $4 billion to shareholders through dividends and share repurchases. For Sales Cloud, we saw 17% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about Einstein AI. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On operating margin, we are pleased with the progress on Einstein AI and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Sales Cloud to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Raimo. The subscription revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On RPO, we are pleased with the progress on margin expansion and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Data Cloud to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about Data Cloud adoption. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On free cash flow, we are pleased with the progress on Data Cloud adoption and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Tableau to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Salesforce Inc.",
+    "ticker": "CRM",
+    "cik": "0001108524",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Salesforce Inc. Q2 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a record-breaking quarter for the company, reflecting the strength of our strategy and execution. In Q2 2025, We saw 6% growth in Service Cloud, well above our internal targets. Our platform consolidation strategy continues to gain traction, with Service Cloud showing particularly strong adoption among enterprise customers. We are investing significantly in platform consolidation because we believe this represents a generational opportunity. The early results from CRM platform validate our approach. Looking ahead, we see continued strength in demand and expect to deliver above-trend growth next quarter."
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Marc. Let me walk through the financial details. Total revenue for Q2 2025 was $80.3 billion, representing a decline of 3% year over year. Our subscription revenue reached $23.3 billion, accelerating the strong demand trends we have been seeing. Gross margin was 27.2%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $5.2 billion in free cash flow during the quarter. We returned $2 billion to shareholders through dividends and share repurchases. For Sales Cloud, we saw 12% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about Data Cloud adoption. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On subscription revenue, we are seeing exceptionally strong demand and our conviction in Data Cloud adoption has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Tableau to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Service Cloud?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On free cash flow, we are seeing exceptionally strong demand and our conviction in platform consolidation has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Service Cloud to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about Data Cloud adoption. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On free cash flow, we are seeing exceptionally strong demand and our conviction in Data Cloud adoption has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Service Cloud to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The subscription revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Salesforce Inc.",
+    "ticker": "CRM",
+    "cik": "0001108524",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Salesforce Inc. Q3 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "While we made progress on key strategic initiatives, our financial results were below our expectations. In Q3 2025, Revenue declined 6% year over year to $87.1B, impacted by softening demand in key segments. Our margin expansion strategy continues to gain traction, with Tableau showing particularly strong adoption among enterprise customers. We are investing significantly in margin expansion because we believe this represents a generational opportunity. The early results from AI analytics validate our approach. Given the current visibility, we are revising our guidance range to reflect a more conservative scenario."
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Marc. Let me walk through the financial details. Total revenue for Q3 2025 was $21.8 billion, representing a decline of 4% year over year. Our subscription revenue reached $15.4 billion, consistent with our expectations. Gross margin was 37.1%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $9.8 billion in free cash flow during the quarter. We returned $8 billion to shareholders through dividends and share repurchases. For Sales Cloud, we saw 19% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the operating margin trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On operating margin, while the current environment presents challenges, we are taking proactive steps to position Sales Cloud for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Sales Cloud to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about platform consolidation. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Keith. The operating margin trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about Einstein AI. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brent. The RPO trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about Einstein AI. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Salesforce Inc.",
+    "ticker": "CRM",
+    "cik": "0001108524",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Salesforce Inc. Q4 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q4 2025, We achieved 26% growth in Service Cloud, which is in the range we expected given current market conditions. Our Einstein AI strategy continues to gain traction, with Service Cloud showing particularly strong adoption among enterprise customers. We are investing significantly in Einstein AI because we believe this represents a generational opportunity. The early results from CRM platform validate our approach. For the upcoming quarter, we expect results roughly in line with seasonal patterns."
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Marc. Let me walk through the financial details. Total revenue for Q4 2025 was $56.1 billion, representing growth of 9% year over year. Our subscription revenue reached $20.1 billion, consistent with our expectations. Gross margin expanded 32.7%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $8.3 billion in free cash flow during the quarter. We returned $5 billion to shareholders through dividends and share repurchases. For Sales Cloud, we saw 21% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about Einstein AI. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Erik. The free cash flow trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Service Cloud?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On operating margin, we are pleased with the progress on Einstein AI and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Service Cloud to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Tableau, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Amy Weaver",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Shannon. The RPO trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Slack, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On subscription revenue, we are pleased with the progress on margin expansion and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Slack to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the free cash flow trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On free cash flow, we are pleased with the progress on Data Cloud adoption and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Slack to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Amy for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Marc Benioff",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  }
+]

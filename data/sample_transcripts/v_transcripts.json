@@ -1,0 +1,758 @@
+[
+  {
+    "company_name": "Visa Inc.",
+    "ticker": "V",
+    "cik": "0001403161",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Visa Inc. Q1 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a record-breaking quarter for the company, reflecting the strength of our strategy and execution. In Q1 2024, Revenue grew 28% year over year, significantly ahead of consensus estimates. Our fintech partnerships strategy continues to gain traction, with Visa Token Service showing particularly strong adoption among enterprise customers. We are investing significantly in fintech partnerships because we believe this represents a generational opportunity. The early results from new flows validate our approach. Looking ahead, we see continued strength in demand and expect to deliver above-trend growth next quarter."
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Ryan. Let me walk through the financial details. Total revenue for Q1 2024 was $96.9 billion, representing growth of 12% year over year. Our payments volume reached $46.9 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 38.9%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $27.8 billion in free cash flow during the quarter. We returned $8 billion to shareholders through dividends and share repurchases. For Visa Direct, we saw 14% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the processed transactions trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On processed transactions, we are seeing exceptionally strong demand and our conviction in fintech partnerships has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Visa B2B Connect to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Visa B2B Connect, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Raimo. The processed transactions trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the processed transactions trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The processed transactions trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Visa Direct, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On net revenue, we are seeing exceptionally strong demand and our conviction in new flows and services has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Visa Direct to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Visa Inc.",
+    "ticker": "V",
+    "cik": "0001403161",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Visa Inc. Q2 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered an outstanding quarter with results exceeding our expectations across every segment. In Q2 2024, Revenue grew 26% year over year, significantly ahead of consensus estimates. Our digital payments strategy continues to gain traction, with CyberSource showing particularly strong adoption among enterprise customers. We are investing significantly in digital payments because we believe this represents a generational opportunity. The early results from new flows validate our approach. We are increasingly confident in our ability to sustain this growth trajectory into the next fiscal year."
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Ryan. Let me walk through the financial details. Total revenue for Q2 2024 was $40.3 billion, representing growth of 27% year over year. Our payments volume reached $12.6 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 29.8%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $24.7 billion in free cash flow during the quarter. We returned $3 billion to shareholders through dividends and share repurchases. For Visa Direct, we saw 11% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Visa Token Service?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Shannon. The cross-border volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Visa Token Service, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On net revenue, we are seeing exceptionally strong demand and our conviction in fintech partnerships has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Visa Token Service to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about new flows and services. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The processed transactions trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the net revenue trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brad. The net revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On net revenue, we are seeing exceptionally strong demand and our conviction in digital payments has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Visa Token Service to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Visa Inc.",
+    "ticker": "V",
+    "cik": "0001403161",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Visa Inc. Q3 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a record-breaking quarter for the company, reflecting the strength of our strategy and execution. In Q3 2024, Revenue grew 16% year over year, significantly ahead of consensus estimates. Our fintech partnerships strategy continues to gain traction, with Visa Token Service showing particularly strong adoption among enterprise customers. We are investing significantly in fintech partnerships because we believe this represents a generational opportunity. The early results from value-added services validate our approach. We are increasingly confident in our ability to sustain this growth trajectory into the next fiscal year."
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Ryan. Let me walk through the financial details. Total revenue for Q3 2024 was $90.8 billion, representing growth of 23% year over year. Our payments volume reached $38.2 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 35.2%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $24.9 billion in free cash flow during the quarter. We returned $7 billion to shareholders through dividends and share repurchases. For Visa Direct, we saw 17% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in CyberSource?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Shannon. The cross-border volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On net revenue, we are seeing exceptionally strong demand and our conviction in digital payments has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect CyberSource to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Visa B2B Connect?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On net revenue, we are seeing exceptionally strong demand and our conviction in cross-border recovery has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Visa B2B Connect to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about new flows and services. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On net revenue, we are seeing exceptionally strong demand and our conviction in new flows and services has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Visa B2B Connect to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Visa Direct, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Karl. Great question. On net revenue, we are seeing exceptionally strong demand and our conviction in digital payments has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Visa Direct to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Visa Inc.",
+    "ticker": "V",
+    "cik": "0001403161",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Visa Inc. Q4 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered an outstanding quarter with results exceeding our expectations across every segment. In Q4 2024, We saw 26% growth in Visa Token Service, well above our internal targets. Our new flows and services strategy continues to gain traction, with Visa Token Service showing particularly strong adoption among enterprise customers. We are investing significantly in new flows and services because we believe this represents a generational opportunity. The early results from value-added services validate our approach. Our pipeline is the strongest it has ever been, and we are raising our full-year guidance accordingly."
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Ryan. Let me walk through the financial details. Total revenue for Q4 2024 was $103.6 billion, representing growth of 8% year over year. Our payments volume reached $23.6 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 20.4%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $11.6 billion in free cash flow during the quarter. We returned $6 billion to shareholders through dividends and share repurchases. For Visa Direct, we saw 21% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Visa Token Service?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Mark. The payments volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Visa Direct, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The cross-border volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the cross-border volume trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The cross-border volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Visa Inc.",
+    "ticker": "V",
+    "cik": "0001403161",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Visa Inc. Q1 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a record-breaking quarter for the company, reflecting the strength of our strategy and execution. In Q1 2025, Revenue grew 27% year over year, significantly ahead of consensus estimates. Our digital payments strategy continues to gain traction, with Visa B2B Connect showing particularly strong adoption among enterprise customers. We are investing significantly in digital payments because we believe this represents a generational opportunity. The early results from cross-border payments validate our approach. Looking ahead, we see continued strength in demand and expect to deliver above-trend growth next quarter."
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Ryan. Let me walk through the financial details. Total revenue for Q1 2025 was $55.1 billion, representing growth of 7% year over year. Our payments volume reached $24.1 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 37.7%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $24.9 billion in free cash flow during the quarter. We returned $9 billion to shareholders through dividends and share repurchases. For Visa Direct, we saw 10% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the processed transactions trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The processed transactions trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The payments volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the processed transactions trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On processed transactions, we are seeing exceptionally strong demand and our conviction in new flows and services has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Visa Direct to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Raimo. The payments volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Visa B2B Connect, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Mark. The payments volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Visa Inc.",
+    "ticker": "V",
+    "cik": "0001403161",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Visa Inc. Q2 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q2 2025, We achieved 27% growth in Visa B2B Connect, which is in the range we expected given current market conditions. Our cross-border recovery strategy continues to gain traction, with Visa B2B Connect showing particularly strong adoption among enterprise customers. We are investing significantly in cross-border recovery because we believe this represents a generational opportunity. The early results from value-added services validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Ryan. Let me walk through the financial details. Total revenue for Q2 2025 was $36.8 billion, representing growth of 15% year over year. Our payments volume reached $21.8 billion, consistent with our expectations. Gross margin expanded 40.3%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $17.3 billion in free cash flow during the quarter. We returned $5 billion to shareholders through dividends and share repurchases. For Visa Direct, we saw 9% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about cross-border recovery. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brent. The processed transactions trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On cross-border volume, we are pleased with the progress on digital payments and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Visa Token Service to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On cross-border volume, we are pleased with the progress on fintech partnerships and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Visa B2B Connect to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Visa Token Service?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Raimo. The cross-border volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Visa B2B Connect, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On payments volume, we are pleased with the progress on cross-border recovery and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Visa B2B Connect to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Visa Inc.",
+    "ticker": "V",
+    "cik": "0001403161",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Visa Inc. Q3 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q3 2025, We achieved 19% growth in Visa B2B Connect, which is in the range we expected given current market conditions. Our cross-border recovery strategy continues to gain traction, with Visa B2B Connect showing particularly strong adoption among enterprise customers. We are investing significantly in cross-border recovery because we believe this represents a generational opportunity. The early results from value-added services validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Ryan. Let me walk through the financial details. Total revenue for Q3 2025 was $52.1 billion, representing growth of 10% year over year. Our payments volume reached $30.4 billion, consistent with our expectations. Gross margin expanded 39.7%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $27.2 billion in free cash flow during the quarter. We returned $3 billion to shareholders through dividends and share repurchases. For Visa Direct, we saw 7% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brent. The processed transactions trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about digital payments. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On processed transactions, we are pleased with the progress on digital payments and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect CyberSource to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about fintech partnerships. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On net revenue, we are pleased with the progress on fintech partnerships and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Visa B2B Connect to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Visa Inc.",
+    "ticker": "V",
+    "cik": "0001403161",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Visa Inc. Q4 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered an outstanding quarter with results exceeding our expectations across every segment. In Q4 2025, Revenue grew 8% year over year, significantly ahead of consensus estimates. Our cross-border recovery strategy continues to gain traction, with Visa Direct showing particularly strong adoption among enterprise customers. We are investing significantly in cross-border recovery because we believe this represents a generational opportunity. The early results from value-added services validate our approach. Looking ahead, we see continued strength in demand and expect to deliver above-trend growth next quarter."
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Ryan. Let me walk through the financial details. Total revenue for Q4 2025 was $57.3 billion, representing growth of 22% year over year. Our payments volume reached $21.8 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 33.3%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $24.3 billion in free cash flow during the quarter. We returned $12 billion to shareholders through dividends and share repurchases. For Visa Direct, we saw 10% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in CyberSource?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The payments volume trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Karl. Great question. On net revenue, we are seeing exceptionally strong demand and our conviction in digital payments has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Visa B2B Connect to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Visa Direct, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Chris Suh",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Erik. The processed transactions trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Visa Token Service, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On processed transactions, we are seeing exceptionally strong demand and our conviction in fintech partnerships has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Visa Token Service to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about new flows and services. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On payments volume, we are seeing exceptionally strong demand and our conviction in new flows and services has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Visa Direct to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Chris for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Ryan McInerney",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "company_name": "Royal Bank of Canada",
+    "ticker": "RY",
+    "cik": "0001000275",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": false,
+    "quarter": "Q1",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good morning, and welcome to the Royal Bank of Canada Q1 fiscal year 2024 earnings conference call. All lines have been placed on mute. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered strong results in Q1 2024, demonstrating the power of our diversified business model. Total revenue reached $14.8 billion, with net income of $3.9 billion. Our ROE of 15.2% reflects disciplined capital management and strong execution. We saw strong performance in Capital Markets with trading revenue up 18%. We saw successful integration of HSBC Canada continues ahead of schedule. Our focus on HSBC Canada integration and technology investment is delivering measurable results. Technology remains a strategic priority. We are investing aggressively in AI, machine learning, and cloud infrastructure. Our Quantitative Technology Services group continues to expand, and we are seeing real impact from these investments in trading efficiency, risk management, and client experience. Our Halifax technology hub is a key part of this strategy, bringing together top engineering talent to build next-generation platforms. We remain confident in our strategic direction and our ability to deliver consistent, sustainable growth. Our technology investments are creating durable competitive advantages that will drive value for shareholders over the long term."
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Dave. Let me walk through the financial details for Q1 2024. Total revenue was $14.8 billion, up from the prior quarter. Net income of $3.9 billion reflects an ROE of 15.2%. Our CET1 capital ratio was 14.1%, well above regulatory minimums and providing significant flexibility for organic growth and capital returns. Provisions for credit losses were $813 million, declining as credit quality improves. In Capital Markets, revenue was solid, driven by global markets trading and investment banking advisory fees. Wealth Management AUM growth was supported by positive net new asset flows and market appreciation. Technology spending represented approximately 10% of revenue, reflecting our commitment to building scalable, AI-driven platforms."
+      },
+      {
+        "speaker_name": "Gabriel Dechaine",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Good morning. On the HSBC Canada integration front, can you give us more detail on how this is impacting the business operationally? Are you seeing measurable efficiency gains from the AI and technology investments?"
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, Gabriel. On HSBC Canada integration, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 14.1% gives us significant flexibility. Provisions at $813 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Sohrab Movahedi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Hi, thanks for taking my question. I wanted to ask about credit quality and how you are thinking about provisions going forward given the macro outlook. Also any color on the HSBC Canada integration initiative would be helpful."
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, Sohrab. On HSBC Canada integration, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 14.1% gives us significant flexibility. Provisions at $813 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "John Aiken",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Good morning. On the Capital Markets strength front, can you give us more detail on how this is impacting the business operationally? Are you seeing measurable efficiency gains from the AI and technology investments?"
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, John. On Capital Markets strength, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 14.1% gives us significant flexibility. Provisions at $813 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I will turn the call back to management."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are proud of these results and excited about the opportunities ahead. Our investments in technology and talent are creating a stronger, more innovative Royal Bank of Canada. Have a great day."
+      }
+    ]
+  },
+  {
+    "company_name": "Royal Bank of Canada",
+    "ticker": "RY",
+    "cik": "0001000275",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": false,
+    "quarter": "Q2",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good morning, and welcome to the Royal Bank of Canada Q2 fiscal year 2024 earnings conference call. All lines have been placed on mute. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "I am very pleased to report an outstanding Q2 2024 for Royal Bank of Canada. Total revenue reached $15.1 billion, with net income of $4.1 billion. Our ROE of 16.0% reflects disciplined capital management and strong execution. We saw record revenue quarter driven by Capital Markets and Wealth Management. We saw HSBC Canada integration milestones achieved in retail branch conversion. Our focus on AI and digital transformation and HSBC synergies is delivering measurable results. Technology remains a strategic priority. We are investing aggressively in AI, machine learning, and cloud infrastructure. Our Quantitative Technology Services group continues to expand, and we are seeing real impact from these investments in trading efficiency, risk management, and client experience. Our Halifax technology hub is a key part of this strategy, bringing together top engineering talent to build next-generation platforms. Looking ahead, we see significant runway for continued growth. Our investments in technology, particularly in AI and our Quantitative Technology Services platform, position us exceptionally well for the future. We are raising our medium-term targets to reflect this confidence."
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Dave. Let me walk through the financial details for Q2 2024. Total revenue was $15.1 billion, up from the prior quarter. Net income of $4.1 billion reflects an ROE of 16.0%. Our CET1 capital ratio was 13.8%, well above regulatory minimums and providing significant flexibility for organic growth and capital returns. Provisions for credit losses were $920 million, reflecting our prudent approach to the current credit environment. In Capital Markets, revenue was solid, driven by global markets trading and investment banking advisory fees. Wealth Management AUM growth was supported by positive net new asset flows and market appreciation. Technology spending represented approximately 10% of revenue, reflecting our commitment to building scalable, AI-driven platforms."
+      },
+      {
+        "speaker_name": "Ebrahim Poonawala",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Good morning. On the record results front, can you give us more detail on how this is impacting the business operationally? Are you seeing measurable efficiency gains from the AI and technology investments?"
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, Ebrahim. On record results, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 13.8% gives us significant flexibility. Provisions at $920 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "John Aiken",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Hi, thanks for taking my question. I wanted to ask about credit quality and how you are thinking about provisions going forward given the macro outlook. Also any color on the HSBC synergies initiative would be helpful."
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, John. On HSBC synergies, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 13.8% gives us significant flexibility. Provisions at $920 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Sohrab Movahedi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you. Dave, can you talk more about the technology investment strategy, particularly around AI and digital transformation? How should we think about the return on these investments over the next two to three years?"
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Great question, Sohrab. AI and digital transformation is central to our strategy. We are building a technology-first bank, and the investments we are making today in AI, cloud, and our QTS platform are creating capabilities that will differentiate us for years to come. Our Halifax technology hub is a great example. We are attracting exceptional engineering talent and they are building systems that improve everything from algorithmic trading to fraud detection to client personalization. The ROI on these investments is accelerating. We are seeing tangible efficiency gains in operations, better risk-adjusted returns in trading, and stronger client engagement through digital channels."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I will turn the call back to management."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are proud of these results and excited about the opportunities ahead. Our investments in technology and talent are creating a stronger, more innovative Royal Bank of Canada. Have a great day."
+      }
+    ]
+  },
+  {
+    "company_name": "Royal Bank of Canada",
+    "ticker": "RY",
+    "cik": "0001000275",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": false,
+    "quarter": "Q3",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good morning, and welcome to the Royal Bank of Canada Q3 fiscal year 2024 earnings conference call. All lines have been placed on mute. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results in Q3 2024, navigating a complex operating environment effectively. Total revenue reached $14.5 billion, with net income of $3.6 billion. Our ROE of 14.8% reflects disciplined capital management and strong execution. We saw solid results despite elevated provisions for credit losses. We saw Capital Markets revenue normalized from prior quarter highs. Our focus on credit quality vigilance and technology modernization is delivering measurable results. Technology remains a strategic priority. We are investing aggressively in AI, machine learning, and cloud infrastructure. Our Quantitative Technology Services group continues to expand, and we are seeing real impact from these investments in trading efficiency, risk management, and client experience. Our Halifax technology hub is a key part of this strategy, bringing together top engineering talent to build next-generation platforms. While we remain watchful of macro conditions, our diversified model provides resilience. We continue to invest in technology and talent to strengthen our competitive position and are well-prepared for a range of economic scenarios."
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Dave. Let me walk through the financial details for Q3 2024. Total revenue was $14.5 billion, consistent with from the prior quarter. Net income of $3.6 billion reflects an ROE of 14.8%. Our CET1 capital ratio was 13.5%, well above regulatory minimums and providing significant flexibility for organic growth and capital returns. Provisions for credit losses were $1050 million, reflecting our prudent approach to the current credit environment. In Capital Markets, revenue was solid, driven by global markets trading and investment banking advisory fees. Wealth Management AUM growth was supported by positive net new asset flows and market appreciation. Technology spending represented approximately 10% of revenue, reflecting our commitment to building scalable, AI-driven platforms."
+      },
+      {
+        "speaker_name": "Meny Grauman",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you. Dave, can you talk more about the technology investment strategy, particularly around housing market? How should we think about the return on these investments over the next two to three years?"
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, Meny. On housing market, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 13.5% gives us significant flexibility. Provisions at $1050 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "John Aiken",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Good morning. On the housing market front, can you give us more detail on how this is impacting the business operationally? Are you seeing measurable efficiency gains from the AI and technology investments?"
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, John. On housing market, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 13.5% gives us significant flexibility. Provisions at $1050 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Sohrab Movahedi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Hi, thanks for taking my question. I wanted to ask about credit quality and how you are thinking about provisions going forward given the macro outlook. Also any color on the credit quality vigilance initiative would be helpful."
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, Sohrab. On credit quality vigilance, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 13.5% gives us significant flexibility. Provisions at $1050 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I will turn the call back to management."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are proud of these results and excited about the opportunities ahead. Our investments in technology and talent are creating a stronger, more innovative Royal Bank of Canada. Have a great day."
+      }
+    ]
+  },
+  {
+    "company_name": "Royal Bank of Canada",
+    "ticker": "RY",
+    "cik": "0001000275",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": false,
+    "quarter": "Q4",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good morning, and welcome to the Royal Bank of Canada Q4 fiscal year 2024 earnings conference call. All lines have been placed on mute. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered strong results in Q4 2024, demonstrating the power of our diversified business model. Total revenue reached $15.6 billion, with net income of $4.3 billion. Our ROE of 16.5% reflects disciplined capital management and strong execution. We saw strong finish to fiscal year with record full-year earnings. We saw HSBC Canada integration substantially complete, ahead of cost synergy targets. Our focus on record annual results and HSBC integration complete is delivering measurable results. Technology remains a strategic priority. We are investing aggressively in AI, machine learning, and cloud infrastructure. Our Quantitative Technology Services group continues to expand, and we are seeing real impact from these investments in trading efficiency, risk management, and client experience. Our Halifax technology hub is a key part of this strategy, bringing together top engineering talent to build next-generation platforms. We remain confident in our strategic direction and our ability to deliver consistent, sustainable growth. Our technology investments are creating durable competitive advantages that will drive value for shareholders over the long term."
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Dave. Let me walk through the financial details for Q4 2024. Total revenue was $15.6 billion, up from the prior quarter. Net income of $4.3 billion reflects an ROE of 16.5%. Our CET1 capital ratio was 13.9%, well above regulatory minimums and providing significant flexibility for organic growth and capital returns. Provisions for credit losses were $890 million, reflecting our prudent approach to the current credit environment. In Capital Markets, revenue was solid, driven by global markets trading and investment banking advisory fees. Wealth Management AUM growth was supported by positive net new asset flows and market appreciation. Technology spending represented approximately 10% of revenue, reflecting our commitment to building scalable, AI-driven platforms."
+      },
+      {
+        "speaker_name": "Ebrahim Poonawala",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Good morning. On the HSBC integration complete front, can you give us more detail on how this is impacting the business operationally? Are you seeing measurable efficiency gains from the AI and technology investments?"
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, Ebrahim. On HSBC integration complete, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 13.9% gives us significant flexibility. Provisions at $890 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Gabriel Dechaine",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you. Dave, can you talk more about the technology investment strategy, particularly around record annual results? How should we think about the return on these investments over the next two to three years?"
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, Gabriel. On record annual results, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 13.9% gives us significant flexibility. Provisions at $890 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Sohrab Movahedi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you. Dave, can you talk more about the technology investment strategy, particularly around HSBC integration complete? How should we think about the return on these investments over the next two to three years?"
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, Sohrab. On HSBC integration complete, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 13.9% gives us significant flexibility. Provisions at $890 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I will turn the call back to management."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are proud of these results and excited about the opportunities ahead. Our investments in technology and talent are creating a stronger, more innovative Royal Bank of Canada. Have a great day."
+      }
+    ]
+  },
+  {
+    "company_name": "Royal Bank of Canada",
+    "ticker": "RY",
+    "cik": "0001000275",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": false,
+    "quarter": "Q1",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good morning, and welcome to the Royal Bank of Canada Q1 fiscal year 2025 earnings conference call. All lines have been placed on mute. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "I am very pleased to report an outstanding Q1 2025 for Royal Bank of Canada. Total revenue reached $16.2 billion, with net income of $4.6 billion. Our ROE of 17.1% reflects disciplined capital management and strong execution. We saw strong start to fiscal 2025 with double-digit earnings growth. We saw Capital Markets had its best Q1 in five years. Our focus on earnings momentum and technology acceleration is delivering measurable results. Technology remains a strategic priority. We are investing aggressively in AI, machine learning, and cloud infrastructure. Our Quantitative Technology Services group continues to expand, and we are seeing real impact from these investments in trading efficiency, risk management, and client experience. Our Halifax technology hub is a key part of this strategy, bringing together top engineering talent to build next-generation platforms. Looking ahead, we see significant runway for continued growth. Our investments in technology, particularly in AI and our Quantitative Technology Services platform, position us exceptionally well for the future. We are raising our medium-term targets to reflect this confidence."
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Dave. Let me walk through the financial details for Q1 2025. Total revenue was $16.2 billion, up from the prior quarter. Net income of $4.6 billion reflects an ROE of 17.1%. Our CET1 capital ratio was 14.2%, well above regulatory minimums and providing significant flexibility for organic growth and capital returns. Provisions for credit losses were $780 million, declining as credit quality improves. In Capital Markets, revenue exceeded expectations, driven by global markets trading and investment banking advisory fees. Wealth Management AUM growth was supported by positive net new asset flows and market appreciation. Technology spending represented approximately 10% of revenue, reflecting our commitment to building scalable, AI-driven platforms."
+      },
+      {
+        "speaker_name": "Sohrab Movahedi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Good morning. On the earnings momentum front, can you give us more detail on how this is impacting the business operationally? Are you seeing measurable efficiency gains from the AI and technology investments?"
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, Sohrab. On earnings momentum, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 14.2% gives us significant flexibility. Provisions at $780 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Gabriel Dechaine",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Hi, thanks for taking my question. I wanted to ask about credit quality and how you are thinking about provisions going forward given the macro outlook. Also any color on the earnings momentum initiative would be helpful."
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, Gabriel. On earnings momentum, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 14.2% gives us significant flexibility. Provisions at $780 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Meny Grauman",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Good morning. On the technology acceleration front, can you give us more detail on how this is impacting the business operationally? Are you seeing measurable efficiency gains from the AI and technology investments?"
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Great question, Meny. technology acceleration is central to our strategy. We are building a technology-first bank, and the investments we are making today in AI, cloud, and our QTS platform are creating capabilities that will differentiate us for years to come. Our Halifax technology hub is a great example. We are attracting exceptional engineering talent and they are building systems that improve everything from algorithmic trading to fraud detection to client personalization. The ROI on these investments is accelerating. We are seeing tangible efficiency gains in operations, better risk-adjusted returns in trading, and stronger client engagement through digital channels."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I will turn the call back to management."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are proud of these results and excited about the opportunities ahead. Our investments in technology and talent are creating a stronger, more innovative Royal Bank of Canada. Have a great day."
+      }
+    ]
+  },
+  {
+    "company_name": "Royal Bank of Canada",
+    "ticker": "RY",
+    "cik": "0001000275",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": false,
+    "quarter": "Q2",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good morning, and welcome to the Royal Bank of Canada Q2 fiscal year 2025 earnings conference call. All lines have been placed on mute. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered strong results in Q2 2025, demonstrating the power of our diversified business model. Total revenue reached $16.8 billion, with net income of $4.8 billion. Our ROE of 17.5% reflects disciplined capital management and strong execution. We saw continued momentum across all business segments. We saw digital-first strategy delivering measurable client experience improvements. Our focus on QTS and AI capabilities and digital strategy is delivering measurable results. Technology remains a strategic priority. We are investing aggressively in AI, machine learning, and cloud infrastructure. Our Quantitative Technology Services group continues to expand, and we are seeing real impact from these investments in trading efficiency, risk management, and client experience. Our Halifax technology hub is a key part of this strategy, bringing together top engineering talent to build next-generation platforms. We remain confident in our strategic direction and our ability to deliver consistent, sustainable growth. Our technology investments are creating durable competitive advantages that will drive value for shareholders over the long term."
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Dave. Let me walk through the financial details for Q2 2025. Total revenue was $16.8 billion, up from the prior quarter. Net income of $4.8 billion reflects an ROE of 17.5%. Our CET1 capital ratio was 14.5%, well above regulatory minimums and providing significant flexibility for organic growth and capital returns. Provisions for credit losses were $720 million, declining as credit quality improves. In Capital Markets, revenue was solid, driven by global markets trading and investment banking advisory fees. Wealth Management AUM growth was supported by positive net new asset flows and market appreciation. Technology spending represented approximately 10% of revenue, reflecting our commitment to building scalable, AI-driven platforms."
+      },
+      {
+        "speaker_name": "Ebrahim Poonawala",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Hi, thanks for taking my question. I wanted to ask about credit quality and how you are thinking about provisions going forward given the macro outlook. Also any color on the QTS and AI capabilities initiative would be helpful."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Great question, Ebrahim. QTS and AI capabilities is central to our strategy. We are building a technology-first bank, and the investments we are making today in AI, cloud, and our QTS platform are creating capabilities that will differentiate us for years to come. Our Halifax technology hub is a great example. We are attracting exceptional engineering talent and they are building systems that improve everything from algorithmic trading to fraud detection to client personalization. The ROI on these investments is accelerating. We are seeing tangible efficiency gains in operations, better risk-adjusted returns in trading, and stronger client engagement through digital channels."
+      },
+      {
+        "speaker_name": "John Aiken",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Good morning. On the digital strategy front, can you give us more detail on how this is impacting the business operationally? Are you seeing measurable efficiency gains from the AI and technology investments?"
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, John. On digital strategy, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 14.5% gives us significant flexibility. Provisions at $720 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Gabriel Dechaine",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you. Dave, can you talk more about the technology investment strategy, particularly around digital strategy? How should we think about the return on these investments over the next two to three years?"
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, Gabriel. On digital strategy, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 14.5% gives us significant flexibility. Provisions at $720 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I will turn the call back to management."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are proud of these results and excited about the opportunities ahead. Our investments in technology and talent are creating a stronger, more innovative Royal Bank of Canada. Have a great day."
+      }
+    ]
+  },
+  {
+    "company_name": "Royal Bank of Canada",
+    "ticker": "RY",
+    "cik": "0001000275",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": false,
+    "quarter": "Q3",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good morning, and welcome to the Royal Bank of Canada Q3 fiscal year 2025 earnings conference call. All lines have been placed on mute. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results in Q3 2025, navigating a complex operating environment effectively. Total revenue reached $16.5 billion, with net income of $4.5 billion. Our ROE of 16.8% reflects disciplined capital management and strong execution. We saw resilient performance in a mixed macroeconomic environment. We saw investment in AI and machine learning across trading and risk management. Our focus on Halifax tech hub and AI in trading and risk is delivering measurable results. Technology remains a strategic priority. We are investing aggressively in AI, machine learning, and cloud infrastructure. Our Quantitative Technology Services group continues to expand, and we are seeing real impact from these investments in trading efficiency, risk management, and client experience. Our Halifax technology hub is a key part of this strategy, bringing together top engineering talent to build next-generation platforms. While we remain watchful of macro conditions, our diversified model provides resilience. We continue to invest in technology and talent to strengthen our competitive position and are well-prepared for a range of economic scenarios."
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Dave. Let me walk through the financial details for Q3 2025. Total revenue was $16.5 billion, up from the prior quarter. Net income of $4.5 billion reflects an ROE of 16.8%. Our CET1 capital ratio was 14.3%, well above regulatory minimums and providing significant flexibility for organic growth and capital returns. Provisions for credit losses were $750 million, declining as credit quality improves. In Capital Markets, revenue was solid, driven by global markets trading and investment banking advisory fees. Wealth Management AUM growth was supported by positive net new asset flows and market appreciation. Technology spending represented approximately 10% of revenue, reflecting our commitment to building scalable, AI-driven platforms."
+      },
+      {
+        "speaker_name": "John Aiken",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you. Dave, can you talk more about the technology investment strategy, particularly around cloud migration? How should we think about the return on these investments over the next two to three years?"
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, John. On cloud migration, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 14.3% gives us significant flexibility. Provisions at $750 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Gabriel Dechaine",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you. Dave, can you talk more about the technology investment strategy, particularly around cloud migration? How should we think about the return on these investments over the next two to three years?"
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Thanks, Gabriel. On cloud migration, the numbers reflect the underlying strength of our franchise. Our CET1 ratio of 14.3% gives us significant flexibility. Provisions at $750 million reflect our disciplined approach to risk management. We continue to see strong fundamentals in our Canadian personal banking portfolio and are well-positioned regardless of the rate environment."
+      },
+      {
+        "speaker_name": "Ebrahim Poonawala",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you. Dave, can you talk more about the technology investment strategy, particularly around AI in trading and risk? How should we think about the return on these investments over the next two to three years?"
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Great question, Ebrahim. AI in trading and risk is central to our strategy. We are building a technology-first bank, and the investments we are making today in AI, cloud, and our QTS platform are creating capabilities that will differentiate us for years to come. Our Halifax technology hub is a great example. We are attracting exceptional engineering talent and they are building systems that improve everything from algorithmic trading to fraud detection to client personalization. The ROI on these investments is accelerating. We are seeing tangible efficiency gains in operations, better risk-adjusted returns in trading, and stronger client engagement through digital channels."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I will turn the call back to management."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are proud of these results and excited about the opportunities ahead. Our investments in technology and talent are creating a stronger, more innovative Royal Bank of Canada. Have a great day."
+      }
+    ]
+  },
+  {
+    "company_name": "Royal Bank of Canada",
+    "ticker": "RY",
+    "cik": "0001000275",
+    "sector": "Finance",
+    "exchange": "NYSE",
+    "is_sp500": false,
+    "quarter": "Q4",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good morning, and welcome to the Royal Bank of Canada Q4 fiscal year 2025 earnings conference call. All lines have been placed on mute. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "I am very pleased to report an outstanding Q4 2025 for Royal Bank of Canada. Total revenue reached $17.2 billion, with net income of $5.1 billion. Our ROE of 18.2% reflects disciplined capital management and strong execution. We saw record fiscal year with earnings growth of 14% year over year. We saw technology transformation delivering $400 million in annual efficiency gains. Our focus on record fiscal year and QTS platform leadership is delivering measurable results. Technology remains a strategic priority. We are investing aggressively in AI, machine learning, and cloud infrastructure. Our Quantitative Technology Services group continues to expand, and we are seeing real impact from these investments in trading efficiency, risk management, and client experience. Our Halifax technology hub is a key part of this strategy, bringing together top engineering talent to build next-generation platforms. Looking ahead, we see significant runway for continued growth. Our investments in technology, particularly in AI and our Quantitative Technology Services platform, position us exceptionally well for the future. We are raising our medium-term targets to reflect this confidence."
+      },
+      {
+        "speaker_name": "Katherine Gibson",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Dave. Let me walk through the financial details for Q4 2025. Total revenue was $17.2 billion, up from the prior quarter. Net income of $5.1 billion reflects an ROE of 18.2%. Our CET1 capital ratio was 14.6%, well above regulatory minimums and providing significant flexibility for organic growth and capital returns. Provisions for credit losses were $680 million, declining as credit quality improves. In Capital Markets, revenue exceeded expectations, driven by global markets trading and investment banking advisory fees. Wealth Management AUM growth was supported by positive net new asset flows and market appreciation. Technology spending represented approximately 10% of revenue, reflecting our commitment to building scalable, AI-driven platforms."
+      },
+      {
+        "speaker_name": "John Aiken",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Hi, thanks for taking my question. I wanted to ask about credit quality and how you are thinking about provisions going forward given the macro outlook. Also any color on the technology talent initiative would be helpful."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Great question, John. technology talent is central to our strategy. We are building a technology-first bank, and the investments we are making today in AI, cloud, and our QTS platform are creating capabilities that will differentiate us for years to come. Our Halifax technology hub is a great example. We are attracting exceptional engineering talent and they are building systems that improve everything from algorithmic trading to fraud detection to client personalization. The ROI on these investments is accelerating. We are seeing tangible efficiency gains in operations, better risk-adjusted returns in trading, and stronger client engagement through digital channels."
+      },
+      {
+        "speaker_name": "Sohrab Movahedi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Hi, thanks for taking my question. I wanted to ask about credit quality and how you are thinking about provisions going forward given the macro outlook. Also any color on the technology talent initiative would be helpful."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Great question, Sohrab. technology talent is central to our strategy. We are building a technology-first bank, and the investments we are making today in AI, cloud, and our QTS platform are creating capabilities that will differentiate us for years to come. Our Halifax technology hub is a great example. We are attracting exceptional engineering talent and they are building systems that improve everything from algorithmic trading to fraud detection to client personalization. The ROI on these investments is accelerating. We are seeing tangible efficiency gains in operations, better risk-adjusted returns in trading, and stronger client engagement through digital channels."
+      },
+      {
+        "speaker_name": "Meny Grauman",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Good morning. On the QTS platform leadership front, can you give us more detail on how this is impacting the business operationally? Are you seeing measurable efficiency gains from the AI and technology investments?"
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Great question, Meny. QTS platform leadership is central to our strategy. We are building a technology-first bank, and the investments we are making today in AI, cloud, and our QTS platform are creating capabilities that will differentiate us for years to come. Our Halifax technology hub is a great example. We are attracting exceptional engineering talent and they are building systems that improve everything from algorithmic trading to fraud detection to client personalization. The ROI on these investments is accelerating. We are seeing tangible efficiency gains in operations, better risk-adjusted returns in trading, and stronger client engagement through digital channels."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I will turn the call back to management."
+      },
+      {
+        "speaker_name": "Dave McKay",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are proud of these results and excited about the opportunities ahead. Our investments in technology and talent are creating a stronger, more innovative Royal Bank of Canada. Have a great day."
+      }
+    ]
+  }
+]

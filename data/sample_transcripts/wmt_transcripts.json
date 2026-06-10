@@ -1,0 +1,674 @@
+[
+  {
+    "company_name": "Walmart Inc.",
+    "ticker": "WMT",
+    "cik": "0000104169",
+    "sector": "Retail",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Walmart Inc. Q1 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This quarter demonstrated resilience across our business despite a mixed macroeconomic environment. In Q1 2024, operating income was largely stable compared to the prior quarter, reflecting balanced supply and demand dynamics. Our advertising business strategy continues to gain traction, with Walmart Connect showing particularly strong adoption among enterprise customers. We are investing significantly in advertising business because we believe this represents a generational opportunity. The early results from marketplace validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Doug. Let me walk through the financial details. Total revenue for Q1 2024 was $74.2 billion, representing growth of 8% year over year. Our comp sales reached $11.8 billion, consistent with our expectations. Gross margin expanded 30.5%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $19.8 billion in free cash flow during the quarter. We returned $5 billion to shareholders through dividends and share repurchases. For Walmart U.S., we saw 13% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On inventory levels, we are pleased with the progress on supply chain automation and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Walmart International to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Walmart International, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On operating income, we are pleased with the progress on supply chain automation and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Walmart International to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Walmart Connect?"
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The inventory levels trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On inventory levels, we are pleased with the progress on advertising business and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Walmart International to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Walmart Inc.",
+    "ticker": "WMT",
+    "cik": "0000104169",
+    "sector": "Retail",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Walmart Inc. Q2 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a record-breaking quarter for the company, reflecting the strength of our strategy and execution. In Q2 2024, We saw 6% growth in Walmart International, well above our internal targets. Our supply chain automation strategy continues to gain traction, with Walmart International showing particularly strong adoption among enterprise customers. We are investing significantly in supply chain automation because we believe this represents a generational opportunity. The early results from e-commerce validate our approach. Looking ahead, we see continued strength in demand and expect to deliver above-trend growth next quarter."
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Doug. Let me walk through the financial details. Total revenue for Q2 2024 was $20.1 billion, representing growth of 11% year over year. Our comp sales reached $13.6 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 23.6%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $11.4 billion in free cash flow during the quarter. We returned $11 billion to shareholders through dividends and share repurchases. For Walmart U.S., we saw 19% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the operating income trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On operating income, we are seeing exceptionally strong demand and our conviction in supply chain automation has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Walmart U.S. to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the operating income trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The operating income trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Walmart International, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Keith. The inventory levels trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On inventory levels, we are seeing exceptionally strong demand and our conviction in omnichannel growth has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Walmart U.S. to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Walmart Inc.",
+    "ticker": "WMT",
+    "cik": "0000104169",
+    "sector": "Retail",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Walmart Inc. Q3 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "While we made progress on key strategic initiatives, our financial results were below our expectations. In Q3 2024, We saw a 27% decline in Walmart Connect as customers delayed purchasing decisions amid macro uncertainty. Our omnichannel growth strategy continues to gain traction, with Walmart Connect showing particularly strong adoption among enterprise customers. We are investing significantly in omnichannel growth because we believe this represents a generational opportunity. The early results from grocery delivery validate our approach. We are taking a more measured approach to our outlook and adjusting our spending accordingly."
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Doug. Let me walk through the financial details. Total revenue for Q3 2024 was $18.9 billion, representing growth of 4% year over year. Our comp sales reached $44.7 billion, consistent with our expectations. Gross margin was 32.7%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $13.8 billion in free cash flow during the quarter. We returned $14 billion to shareholders through dividends and share repurchases. For Walmart U.S., we saw 19% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the operating income trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The operating income trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Walmart U.S.?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On operating income, while the current environment presents challenges, we are taking proactive steps to position Walmart U.S. for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Walmart U.S. to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Walmart U.S., can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Keith. The inventory levels trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Walmart U.S.?"
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The inventory levels trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Walmart Inc.",
+    "ticker": "WMT",
+    "cik": "0000104169",
+    "sector": "Retail",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Walmart Inc. Q4 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q4 2024, inventory levels was largely stable compared to the prior quarter, reflecting balanced supply and demand dynamics. Our price leadership strategy continues to gain traction, with Walmart International showing particularly strong adoption among enterprise customers. We are investing significantly in price leadership because we believe this represents a generational opportunity. The early results from grocery delivery validate our approach. For the upcoming quarter, we expect results roughly in line with seasonal patterns."
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Doug. Let me walk through the financial details. Total revenue for Q4 2024 was $114.5 billion, representing growth of 30% year over year. Our comp sales reached $30.5 billion, consistent with our expectations. Gross margin expanded 38.9%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $16.8 billion in free cash flow during the quarter. We returned $9 billion to shareholders through dividends and share repurchases. For Walmart U.S., we saw 9% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the inventory levels trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Shannon. The inventory levels trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the comp sales trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Raimo. The comp sales trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brad. The inventory levels trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Walmart Inc.",
+    "ticker": "WMT",
+    "cik": "0000104169",
+    "sector": "Retail",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Walmart Inc. Q1 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a record-breaking quarter for the company, reflecting the strength of our strategy and execution. In Q1 2025, Our e-commerce growth reached an all-time high of $32.9B, driven by strong demand across all regions. Our omnichannel growth strategy continues to gain traction, with Walmart International showing particularly strong adoption among enterprise customers. We are investing significantly in omnichannel growth because we believe this represents a generational opportunity. The early results from grocery delivery validate our approach. Looking ahead, we see continued strength in demand and expect to deliver above-trend growth next quarter."
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Doug. Let me walk through the financial details. Total revenue for Q1 2025 was $108.5 billion, representing growth of 26% year over year. Our comp sales reached $11.3 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 31.2%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $25.8 billion in free cash flow during the quarter. We returned $3 billion to shareholders through dividends and share repurchases. For Walmart U.S., we saw 21% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On comp sales, we are seeing exceptionally strong demand and our conviction in omnichannel growth has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Walmart Connect to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about advertising business. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On inventory levels, we are seeing exceptionally strong demand and our conviction in advertising business has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Walmart U.S. to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Walmart Connect, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On comp sales, we are seeing exceptionally strong demand and our conviction in supply chain automation has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Walmart Connect to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Walmart Inc.",
+    "ticker": "WMT",
+    "cik": "0000104169",
+    "sector": "Retail",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Walmart Inc. Q2 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q2 2025, Revenue of $51.2B represented a 5% increase year over year, consistent with our guidance. Our supply chain automation strategy continues to gain traction, with Walmart Connect showing particularly strong adoption among enterprise customers. We are investing significantly in supply chain automation because we believe this represents a generational opportunity. The early results from grocery delivery validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Doug. Let me walk through the financial details. Total revenue for Q2 2025 was $72.8 billion, representing growth of 4% year over year. Our comp sales reached $39.4 billion, consistent with our expectations. Gross margin was 21.8%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $6.2 billion in free cash flow during the quarter. We returned $7 billion to shareholders through dividends and share repurchases. For Walmart U.S., we saw 6% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about omnichannel growth. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On comp sales, we are pleased with the progress on omnichannel growth and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Walmart U.S. to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Sam's Club, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On comp sales, we are pleased with the progress on omnichannel growth and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Sam's Club to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about omnichannel growth. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The comp sales trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the operating income trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On operating income, we are pleased with the progress on supply chain automation and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Walmart Connect to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Walmart Inc.",
+    "ticker": "WMT",
+    "cik": "0000104169",
+    "sector": "Retail",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Walmart Inc. Q3 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q3 2025, We achieved 19% growth in Walmart International, which is in the range we expected given current market conditions. Our supply chain automation strategy continues to gain traction, with Walmart International showing particularly strong adoption among enterprise customers. We are investing significantly in supply chain automation because we believe this represents a generational opportunity. The early results from advertising validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Doug. Let me walk through the financial details. Total revenue for Q3 2025 was $115.5 billion, representing growth of 19% year over year. Our comp sales reached $46.2 billion, consistent with our expectations. Gross margin expanded 42.1%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $10.7 billion in free cash flow during the quarter. We returned $13 billion to shareholders through dividends and share repurchases. For Walmart U.S., we saw 22% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the e-commerce growth trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Wamsi. The e-commerce growth trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Walmart Connect, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On e-commerce growth, we are pleased with the progress on price leadership and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Walmart Connect to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Karl. Great question. On operating income, we are pleased with the progress on price leadership and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Walmart Connect to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Walmart Inc.",
+    "ticker": "WMT",
+    "cik": "0000104169",
+    "sector": "Retail",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Walmart Inc. Q4 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q4 2025, Revenue of $73.6B represented a 21% increase year over year, consistent with our guidance. Our supply chain automation strategy continues to gain traction, with Sam's Club showing particularly strong adoption among enterprise customers. We are investing significantly in supply chain automation because we believe this represents a generational opportunity. The early results from e-commerce validate our approach. For the upcoming quarter, we expect results roughly in line with seasonal patterns."
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Doug. Let me walk through the financial details. Total revenue for Q4 2025 was $117.7 billion, representing growth of 25% year over year. Our comp sales reached $8.7 billion, consistent with our expectations. Gross margin expanded 21.5%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $29.2 billion in free cash flow during the quarter. We returned $3 billion to shareholders through dividends and share repurchases. For Walmart U.S., we saw 16% growth, driven by strong demand fundamentals."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brent. The operating income trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about price leadership. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "John David Rainey",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Erik. The inventory levels trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Karl. Great question. On operating income, we are pleased with the progress on supply chain automation and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Walmart Connect to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to John for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Doug McMillon",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  }
+]

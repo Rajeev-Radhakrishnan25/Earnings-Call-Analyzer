@@ -1,0 +1,25 @@
+version: "3.9"
+
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: eca_postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-eca_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-eca_local_dev_password}
+      POSTGRES_DB: ${POSTGRES_DB:-earnings_call_analyzer}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./scripts/init_db.sql:/docker-entrypoint-initdb.d/01_init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-eca_user} -d ${POSTGRES_DB:-earnings_call_analyzer}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+volumes:
+  pgdata:
+    driver: local

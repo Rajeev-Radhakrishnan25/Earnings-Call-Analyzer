@@ -1,0 +1,734 @@
+[
+  {
+    "company_name": "Accenture plc",
+    "ticker": "ACN",
+    "cik": "0001281761",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Accenture plc Q1 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q1 2024, We achieved 14% growth in consulting, which is in the range we expected given current market conditions. Our generative AI adoption strategy continues to gain traction, with consulting showing particularly strong adoption among enterprise customers. We are investing significantly in generative AI adoption because we believe this represents a generational opportunity. The early results from cloud migration validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Julie. Let me walk through the financial details. Total revenue for Q1 2024 was $86.7 billion, representing growth of 14% year over year. Our new bookings reached $10.1 billion, consistent with our expectations. Gross margin expanded 42.3%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $30.9 billion in free cash flow during the quarter. We returned $8 billion to shareholders through dividends and share repurchases. For consulting, we saw 25% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Accenture Song, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Keith. The headcount trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about digital transformation. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The new bookings trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in managed services?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On revenue growth, we are pleased with the progress on digital transformation and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect managed services to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Accenture plc",
+    "ticker": "ACN",
+    "cik": "0001281761",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Accenture plc Q2 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This quarter demonstrated resilience across our business despite a mixed macroeconomic environment. In Q2 2024, Revenue of $79.1B represented a 16% increase year over year, consistent with our guidance. Our generative AI adoption strategy continues to gain traction, with managed services showing particularly strong adoption among enterprise customers. We are investing significantly in generative AI adoption because we believe this represents a generational opportunity. The early results from cybersecurity validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Julie. Let me walk through the financial details. Total revenue for Q2 2024 was $120.9 billion, representing growth of 24% year over year. Our new bookings reached $17.1 billion, consistent with our expectations. Gross margin expanded 39.1%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $29.3 billion in free cash flow during the quarter. We returned $12 billion to shareholders through dividends and share repurchases. For consulting, we saw 9% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the new bookings trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Keith. The new bookings trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On consulting, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brent. The operating margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Accenture Song?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On new bookings, we are pleased with the progress on digital transformation and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Accenture Song to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On operating margin, we are pleased with the progress on generative AI adoption and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect managed services to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Accenture plc",
+    "ticker": "ACN",
+    "cik": "0001281761",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Accenture plc Q3 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "Our performance this quarter reflects steady execution against our strategic priorities. In Q3 2024, new bookings was largely stable compared to the prior quarter, reflecting balanced supply and demand dynamics. Our large deal momentum strategy continues to gain traction, with Accenture Cloud First showing particularly strong adoption among enterprise customers. We are investing significantly in large deal momentum because we believe this represents a generational opportunity. The early results from cloud migration validate our approach. We are maintaining our full-year guidance and continue to invest in long-term growth opportunities."
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Julie. Let me walk through the financial details. Total revenue for Q3 2024 was $108.3 billion, representing a decline of 0% year over year. Our new bookings reached $21.3 billion, consistent with our expectations. Gross margin was 36.4%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $27.2 billion in free cash flow during the quarter. We returned $11 billion to shareholders through dividends and share repurchases. For consulting, we saw 5% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in consulting?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The operating margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Accenture Cloud First?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On revenue growth, we are pleased with the progress on generative AI adoption and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Accenture Cloud First to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On new bookings, we are pleased with the progress on generative AI adoption and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect managed services to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Accenture plc",
+    "ticker": "ACN",
+    "cik": "0001281761",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Accenture plc Q4 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a record-breaking quarter for the company, reflecting the strength of our strategy and execution. In Q4 2024, We saw 18% growth in managed services, well above our internal targets. Our large deal momentum strategy continues to gain traction, with managed services showing particularly strong adoption among enterprise customers. We are investing significantly in large deal momentum because we believe this represents a generational opportunity. The early results from cybersecurity validate our approach. Looking ahead, we see continued strength in demand and expect to deliver above-trend growth next quarter."
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Julie. Let me walk through the financial details. Total revenue for Q4 2024 was $72.6 billion, representing growth of 29% year over year. Our new bookings reached $10.4 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 40.4%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $12.6 billion in free cash flow during the quarter. We returned $13 billion to shareholders through dividends and share repurchases. For consulting, we saw 25% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in managed services?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The revenue growth trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about large deal momentum. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Erik. The operating margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in managed services?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On new bookings, we are seeing exceptionally strong demand and our conviction in large deal momentum has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect managed services to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the revenue growth trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On revenue growth, we are seeing exceptionally strong demand and our conviction in large deal momentum has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect consulting to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Accenture Song?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On revenue growth, we are seeing exceptionally strong demand and our conviction in digital transformation has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Accenture Song to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Accenture plc",
+    "ticker": "ACN",
+    "cik": "0001281761",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Accenture plc Q1 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "I am extremely pleased with our performance this quarter. The momentum we are seeing is unprecedented. In Q1 2025, Our new bookings reached an all-time high of $93.1B, driven by strong demand across all regions. Our large deal momentum strategy continues to gain traction, with Accenture Song showing particularly strong adoption among enterprise customers. We are investing significantly in large deal momentum because we believe this represents a generational opportunity. The early results from AI advisory validate our approach. Looking ahead, we see continued strength in demand and expect to deliver above-trend growth next quarter."
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Julie. Let me walk through the financial details. Total revenue for Q1 2025 was $47.7 billion, representing growth of 13% year over year. Our new bookings reached $38.1 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 34.6%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $10.5 billion in free cash flow during the quarter. We returned $5 billion to shareholders through dividends and share repurchases. For consulting, we saw 15% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Mark. Great question. On headcount, we are seeing exceptionally strong demand and our conviction in large deal momentum has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect consulting to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in managed services?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Wamsi. The operating margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The revenue growth trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in consulting?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The revenue growth trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On headcount, we are seeing exceptionally strong demand and our conviction in talent strategy has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Accenture Cloud First to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Accenture plc",
+    "ticker": "ACN",
+    "cik": "0001281761",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Accenture plc Q2 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "Our performance this quarter reflects steady execution against our strategic priorities. In Q2 2025, Revenue of $14.6B represented a 12% increase year over year, consistent with our guidance. Our large deal momentum strategy continues to gain traction, with Accenture Song showing particularly strong adoption among enterprise customers. We are investing significantly in large deal momentum because we believe this represents a generational opportunity. The early results from digital transformation validate our approach. We are maintaining our full-year guidance and continue to invest in long-term growth opportunities."
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Julie. Let me walk through the financial details. Total revenue for Q2 2025 was $40.6 billion, representing growth of 3% year over year. Our new bookings reached $5.5 billion, consistent with our expectations. Gross margin was 30.2%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $12.4 billion in free cash flow during the quarter. We returned $4 billion to shareholders through dividends and share repurchases. For consulting, we saw 10% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about generative AI adoption. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Keith. The operating margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the operating margin trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Wamsi. The operating margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in managed services?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The revenue growth trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the operating margin trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The operating margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Accenture Song, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On headcount, we are pleased with the progress on digital transformation and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Accenture Song to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Accenture plc",
+    "ticker": "ACN",
+    "cik": "0001281761",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Accenture plc Q3 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a record-breaking quarter for the company, reflecting the strength of our strategy and execution. In Q3 2025, Revenue grew 8% year over year, significantly ahead of consensus estimates. Our generative AI adoption strategy continues to gain traction, with Accenture Song showing particularly strong adoption among enterprise customers. We are investing significantly in generative AI adoption because we believe this represents a generational opportunity. The early results from cloud migration validate our approach. Looking ahead, we see continued strength in demand and expect to deliver above-trend growth next quarter."
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Julie. Let me walk through the financial details. Total revenue for Q3 2025 was $119.5 billion, representing a decline of 4% year over year. Our new bookings reached $44.8 billion, accelerating the strong demand trends we have been seeing. Gross margin was 29.5%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $13.5 billion in free cash flow during the quarter. We returned $11 billion to shareholders through dividends and share repurchases. For consulting, we saw 9% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The operating margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the new bookings trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brent. The new bookings trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about talent strategy. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Keith. The operating margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On consulting, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On headcount, we are seeing exceptionally strong demand and our conviction in talent strategy has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect consulting to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On operating margin, we are seeing exceptionally strong demand and our conviction in talent strategy has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Accenture Song to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Accenture plc",
+    "ticker": "ACN",
+    "cik": "0001281761",
+    "sector": "Technology",
+    "exchange": "NYSE",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Accenture plc Q4 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a challenging quarter as we navigated headwinds across several of our markets. In Q4 2025, operating margin came in below expectations, reflecting ongoing challenges in the current environment. Our large deal momentum strategy continues to gain traction, with Accenture Song showing particularly strong adoption among enterprise customers. We are investing significantly in large deal momentum because we believe this represents a generational opportunity. The early results from digital transformation validate our approach. Given the current visibility, we are revising our guidance range to reflect a more conservative scenario."
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Julie. Let me walk through the financial details. Total revenue for Q4 2025 was $80.7 billion, representing a decline of 1% year over year. Our new bookings reached $29.7 billion, consistent with our expectations. Gross margin was 41.6%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $15.4 billion in free cash flow during the quarter. We returned $12 billion to shareholders through dividends and share repurchases. For consulting, we saw 8% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Accenture Cloud First?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On new bookings, while the current environment presents challenges, we are taking proactive steps to position Accenture Cloud First for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect Accenture Cloud First to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about large deal momentum. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Angie Park",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brad. The operating margin trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the new bookings trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On new bookings, while the current environment presents challenges, we are taking proactive steps to position consulting for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect consulting to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Angie for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Julie Sweet",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  }
+]

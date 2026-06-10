@@ -1,0 +1,758 @@
+[
+  {
+    "company_name": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "cik": "0001652044",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Alphabet Inc. Q1 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q1 2024, Revenue of $38.1B represented a 28% increase year over year, consistent with our guidance. Our Gemini AI strategy continues to gain traction, with Waymo showing particularly strong adoption among enterprise customers. We are investing significantly in Gemini AI because we believe this represents a generational opportunity. The early results from advertising validate our approach. We are maintaining our full-year guidance and continue to invest in long-term growth opportunities."
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Sundar. Let me walk through the financial details. Total revenue for Q1 2024 was $111.8 billion, representing growth of 15% year over year. Our search revenue reached $18.4 billion, consistent with our expectations. Gross margin expanded 42.9%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $27.9 billion in free cash flow during the quarter. We returned $3 billion to shareholders through dividends and share repurchases. For Google Search, we saw 21% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Google Search?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On search revenue, we are pleased with the progress on cloud profitability and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Google Search to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about search innovation. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On search revenue, we are pleased with the progress on search innovation and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Google Search to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Pixel?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Keith. The search revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about search innovation. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brad. The YouTube ad revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "cik": "0001652044",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Alphabet Inc. Q2 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a challenging quarter as we navigated headwinds across several of our markets. In Q2 2024, search revenue came in below expectations, reflecting ongoing challenges in the current environment. Our cloud profitability strategy continues to gain traction, with Google Search showing particularly strong adoption among enterprise customers. We are investing significantly in cloud profitability because we believe this represents a generational opportunity. The early results from AI infrastructure validate our approach. We expect near-term headwinds to persist but believe our strategic positioning will drive recovery."
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Sundar. Let me walk through the financial details. Total revenue for Q2 2024 was $120.8 billion, representing growth of 2% year over year. Our search revenue reached $12.8 billion, consistent with our expectations. Gross margin was 35.4%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $5.7 billion in free cash flow during the quarter. We returned $13 billion to shareholders through dividends and share repurchases. For Google Search, we saw 7% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about search innovation. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On TAC rate, while the current environment presents challenges, we are taking proactive steps to position YouTube for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect YouTube to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Pixel?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The YouTube ad revenue trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On YouTube, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The cloud revenue trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On YouTube, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Wamsi. The TAC rate trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about cloud profitability. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The cloud revenue trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "cik": "0001652044",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Alphabet Inc. Q3 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "I am extremely pleased with our performance this quarter. The momentum we are seeing is unprecedented. In Q3 2024, We saw 3% growth in Pixel, well above our internal targets. Our search innovation strategy continues to gain traction, with Pixel showing particularly strong adoption among enterprise customers. We are investing significantly in search innovation because we believe this represents a generational opportunity. The early results from AI infrastructure validate our approach. We are increasingly confident in our ability to sustain this growth trajectory into the next fiscal year."
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Sundar. Let me walk through the financial details. Total revenue for Q3 2024 was $104.8 billion, representing growth of 17% year over year. Our search revenue reached $31.3 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 23.1%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $7.3 billion in free cash flow during the quarter. We returned $9 billion to shareholders through dividends and share repurchases. For Google Search, we saw 13% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Wamsi. The TAC rate trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the search revenue trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The search revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Google Cloud?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Shannon. The cloud revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Google Cloud?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The cloud revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The search revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "cik": "0001652044",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Alphabet Inc. Q4 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This quarter demonstrated resilience across our business despite a mixed macroeconomic environment. In Q4 2024, Revenue of $12.1B represented a 22% increase year over year, consistent with our guidance. Our search innovation strategy continues to gain traction, with Pixel showing particularly strong adoption among enterprise customers. We are investing significantly in search innovation because we believe this represents a generational opportunity. The early results from cloud platform validate our approach. We are maintaining our full-year guidance and continue to invest in long-term growth opportunities."
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Sundar. Let me walk through the financial details. Total revenue for Q4 2024 was $115.5 billion, representing growth of 7% year over year. Our search revenue reached $39.8 billion, consistent with our expectations. Gross margin expanded 28.2%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $28.7 billion in free cash flow during the quarter. We returned $15 billion to shareholders through dividends and share repurchases. For Google Search, we saw 5% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The TAC rate trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On YouTube, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The search revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Google Search?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On TAC rate, we are pleased with the progress on Gemini AI and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Google Search to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On YouTube, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On TAC rate, we are pleased with the progress on cost efficiency and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect YouTube to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "cik": "0001652044",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Alphabet Inc. Q1 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q1 2025, Revenue of $19.9B represented a 7% increase year over year, consistent with our guidance. Our cost efficiency strategy continues to gain traction, with Google Search showing particularly strong adoption among enterprise customers. We are investing significantly in cost efficiency because we believe this represents a generational opportunity. The early results from advertising validate our approach. For the upcoming quarter, we expect results roughly in line with seasonal patterns."
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Sundar. Let me walk through the financial details. Total revenue for Q1 2025 was $27.3 billion, representing growth of 10% year over year. Our search revenue reached $30.8 billion, consistent with our expectations. Gross margin expanded 27.6%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $26.3 billion in free cash flow during the quarter. We returned $6 billion to shareholders through dividends and share repurchases. For Google Search, we saw 16% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in YouTube?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Karl. Great question. On TAC rate, we are pleased with the progress on cost efficiency and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect YouTube to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Amit. Great question. On YouTube ad revenue, we are pleased with the progress on cloud profitability and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Pixel to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about cost efficiency. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On TAC rate, we are pleased with the progress on cost efficiency and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Google Cloud to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On TAC rate, we are pleased with the progress on Gemini AI and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Google Search to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On YouTube, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On YouTube ad revenue, we are pleased with the progress on cloud profitability and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect YouTube to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "cik": "0001652044",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Alphabet Inc. Q2 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a record-breaking quarter for the company, reflecting the strength of our strategy and execution. In Q2 2025, Our TAC rate reached an all-time high of $63.3B, driven by strong demand across all regions. Our cost efficiency strategy continues to gain traction, with YouTube showing particularly strong adoption among enterprise customers. We are investing significantly in cost efficiency because we believe this represents a generational opportunity. The early results from AI infrastructure validate our approach. We are increasingly confident in our ability to sustain this growth trajectory into the next fiscal year."
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Sundar. Let me walk through the financial details. Total revenue for Q2 2025 was $95.3 billion, representing a decline of 2% year over year. Our search revenue reached $12.7 billion, accelerating the strong demand trends we have been seeing. Gross margin was 34.3%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $13.1 billion in free cash flow during the quarter. We returned $2 billion to shareholders through dividends and share repurchases. For Google Search, we saw 16% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On YouTube ad revenue, we are seeing exceptionally strong demand and our conviction in search innovation has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Waymo to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Google Cloud?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The TAC rate trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the TAC rate trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On TAC rate, we are seeing exceptionally strong demand and our conviction in search innovation has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Google Search to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On YouTube ad revenue, we are seeing exceptionally strong demand and our conviction in cost efficiency has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Google Cloud to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "cik": "0001652044",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Alphabet Inc. Q3 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered an outstanding quarter with results exceeding our expectations across every segment. In Q3 2025, Our TAC rate reached an all-time high of $36.4B, driven by strong demand across all regions. Our search innovation strategy continues to gain traction, with Pixel showing particularly strong adoption among enterprise customers. We are investing significantly in search innovation because we believe this represents a generational opportunity. The early results from AI infrastructure validate our approach. Our pipeline is the strongest it has ever been, and we are raising our full-year guidance accordingly."
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Sundar. Let me walk through the financial details. Total revenue for Q3 2025 was $108.3 billion, representing growth of 27% year over year. Our search revenue reached $10.2 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 40.9%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $25.4 billion in free cash flow during the quarter. We returned $6 billion to shareholders through dividends and share repurchases. For Google Search, we saw 20% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the YouTube ad revenue trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Erik. The YouTube ad revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about search innovation. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On TAC rate, we are seeing exceptionally strong demand and our conviction in search innovation has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect Google Search to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Google Cloud, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The cloud revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Google Cloud?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Toni. The cloud revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Google Search, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The TAC rate trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "cik": "0001652044",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the Alphabet Inc. Q4 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q4 2025, We achieved 8% growth in YouTube, which is in the range we expected given current market conditions. Our Gemini AI strategy continues to gain traction, with YouTube showing particularly strong adoption among enterprise customers. We are investing significantly in Gemini AI because we believe this represents a generational opportunity. The early results from AI infrastructure validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Sundar. Let me walk through the financial details. Total revenue for Q4 2025 was $86.1 billion, representing growth of 1% year over year. Our search revenue reached $30.1 billion, consistent with our expectations. Gross margin was 26.9%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $24.2 billion in free cash flow during the quarter. We returned $13 billion to shareholders through dividends and share repurchases. For Google Search, we saw 11% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Ruth Porat",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Erik. The TAC rate trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On YouTube ad revenue, we are pleased with the progress on cost efficiency and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Pixel to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Google Cloud, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On TAC rate, we are pleased with the progress on Gemini AI and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect Google Cloud to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Ruth for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Sundar Pichai",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  }
+]

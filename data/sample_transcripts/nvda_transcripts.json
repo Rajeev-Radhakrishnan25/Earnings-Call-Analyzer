@@ -1,0 +1,698 @@
+[
+  {
+    "company_name": "NVIDIA Corp.",
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the NVIDIA Corp. Q1 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered an outstanding quarter with results exceeding our expectations across every segment. In Q1 2024, We saw 26% growth in GeForce RTX, well above our internal targets. Our inference scaling strategy continues to gain traction, with GeForce RTX showing particularly strong adoption among enterprise customers. We are investing significantly in inference scaling because we believe this represents a generational opportunity. The early results from data center GPU validate our approach. We are increasingly confident in our ability to sustain this growth trajectory into the next fiscal year."
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jensen. Let me walk through the financial details. Total revenue for Q1 2024 was $36.4 billion, representing growth of 3% year over year. Our data center revenue reached $24.8 billion, accelerating the strong demand trends we have been seeing. Gross margin was 33.3%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $21.1 billion in free cash flow during the quarter. We returned $5 billion to shareholders through dividends and share repurchases. For H100, we saw 22% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the data center revenue trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On data center revenue, we are seeing exceptionally strong demand and our conviction in AI demand has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect GeForce RTX to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about supply constraints. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Keith. The backlog trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in H100?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On gross margin, we are seeing exceptionally strong demand and our conviction in inference scaling has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect H100 to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "NVIDIA Corp.",
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the NVIDIA Corp. Q2 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered an outstanding quarter with results exceeding our expectations across every segment. In Q2 2024, Revenue grew 26% year over year, significantly ahead of consensus estimates. Our sovereign AI strategy continues to gain traction, with H100 showing particularly strong adoption among enterprise customers. We are investing significantly in sovereign AI because we believe this represents a generational opportunity. The early results from inference validate our approach. Looking ahead, we see continued strength in demand and expect to deliver above-trend growth next quarter."
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jensen. Let me walk through the financial details. Total revenue for Q2 2024 was $30.9 billion, representing growth of 20% year over year. Our data center revenue reached $43.6 billion, accelerating the strong demand trends we have been seeing. Gross margin expanded 43.5%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $26.8 billion in free cash flow during the quarter. We returned $14 billion to shareholders through dividends and share repurchases. For H100, we saw 23% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On DGX, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Raimo. The backlog trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Brad. The gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On H100, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On data center revenue, we are seeing exceptionally strong demand and our conviction in sovereign AI has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect H100 to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about AI demand. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the expansion and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On backlog, we are seeing exceptionally strong demand and our conviction in sovereign AI has only strengthened. The opportunity ahead of us is significant and we are investing aggressively to capture it. We expect DGX to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "NVIDIA Corp.",
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the NVIDIA Corp. Q3 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "Our results this quarter reflect a more difficult operating environment than we anticipated. In Q3 2024, We saw a 11% decline in DGX as customers delayed purchasing decisions amid macro uncertainty. Our supply constraints strategy continues to gain traction, with DGX showing particularly strong adoption among enterprise customers. We are investing significantly in supply constraints because we believe this represents a generational opportunity. The early results from data center GPU validate our approach. Given the current visibility, we are revising our guidance range to reflect a more conservative scenario."
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jensen. Let me walk through the financial details. Total revenue for Q3 2024 was $75.9 billion, representing a decline of 0% year over year. Our data center revenue reached $11.2 billion, consistent with our expectations. Gross margin was 40.8%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $28.4 billion in free cash flow during the quarter. We returned $5 billion to shareholders through dividends and share repurchases. For H100, we saw 12% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Mark. The backlog trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On DGX, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Wamsi. Great question. On gaming revenue, while the current environment presents challenges, we are taking proactive steps to position DGX for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect DGX to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Raimo. Great question. On backlog, while the current environment presents challenges, we are taking proactive steps to position A100 for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect A100 to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "NVIDIA Corp.",
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2024,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the NVIDIA Corp. Q4 fiscal year 2024 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "Our performance this quarter reflects steady execution against our strategic priorities. In Q4 2024, data center revenue was largely stable compared to the prior quarter, reflecting balanced supply and demand dynamics. Our supply constraints strategy continues to gain traction, with DGX showing particularly strong adoption among enterprise customers. We are investing significantly in supply constraints because we believe this represents a generational opportunity. The early results from AI training validate our approach. We are maintaining our full-year guidance and continue to invest in long-term growth opportunities."
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jensen. Let me walk through the financial details. Total revenue for Q4 2024 was $48.5 billion, representing a decline of 1% year over year. Our data center revenue reached $50.6 billion, consistent with our expectations. Gross margin was 41.3%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $9.8 billion in free cash flow during the quarter. We returned $7 billion to shareholders through dividends and share repurchases. For H100, we saw 7% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On Grace Hopper, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On H100, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On gaming revenue, we are pleased with the progress on AI demand and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect H100 to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the gaming revenue trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On gaming revenue, we are pleased with the progress on supply constraints and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect H100 to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On GeForce RTX, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Shannon. The gaming revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "NVIDIA Corp.",
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q1",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the NVIDIA Corp. Q1 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q1 2025, Revenue of $25.5B represented a 26% increase year over year, consistent with our guidance. Our inference scaling strategy continues to gain traction, with DGX showing particularly strong adoption among enterprise customers. We are investing significantly in inference scaling because we believe this represents a generational opportunity. The early results from automotive validate our approach. We are maintaining our full-year guidance and continue to invest in long-term growth opportunities."
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jensen. Let me walk through the financial details. Total revenue for Q1 2025 was $48.1 billion, representing a decline of 3% year over year. Our data center revenue reached $45.8 billion, consistent with our expectations. Gross margin was 33.5%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $22.7 billion in free cash flow during the quarter. We returned $9 billion to shareholders through dividends and share repurchases. For H100, we saw 21% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Shannon Cross",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about AI demand. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Shannon. Great question. On data center revenue, we are pleased with the progress on AI demand and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect H100 to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in GeForce RTX?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On backlog, we are pleased with the progress on inference scaling and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect GeForce RTX to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about sovereign AI. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Kash. The data center revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "NVIDIA Corp.",
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q2",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the NVIDIA Corp. Q2 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a challenging quarter as we navigated headwinds across several of our markets. In Q2 2025, We saw a 10% decline in Grace Hopper as customers delayed purchasing decisions amid macro uncertainty. Our inference scaling strategy continues to gain traction, with Grace Hopper showing particularly strong adoption among enterprise customers. We are investing significantly in inference scaling because we believe this represents a generational opportunity. The early results from data center GPU validate our approach. Given the current visibility, we are revising our guidance range to reflect a more conservative scenario."
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jensen. Let me walk through the financial details. Total revenue for Q2 2025 was $25.9 billion, representing a decline of 7% year over year. Our data center revenue reached $46.2 billion, consistent with our expectations. Gross margin was 36.9%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $8.3 billion in free cash flow during the quarter. We returned $13 billion to shareholders through dividends and share repurchases. For H100, we saw 20% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Erik Woodring",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On A100, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Erik. Great question. On data center revenue, while the current environment presents challenges, we are taking proactive steps to position A100 for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect A100 to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Wamsi Mohan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Great, thanks. On A100, can you talk about what you are seeing in terms of customer adoption and how the competitive landscape is evolving?"
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Wamsi. The gaming revenue trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Karl. The gross margin trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Keith Weiss",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Keith. Great question. On data center revenue, while the current environment presents challenges, we are taking proactive steps to position DGX for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect DGX to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Amit Daryanani",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about supply constraints. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Amit. The gaming revenue trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "NVIDIA Corp.",
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q3",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the NVIDIA Corp. Q3 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "We delivered solid results this quarter, broadly in line with our expectations. In Q3 2025, We achieved 8% growth in Grace Hopper, which is in the range we expected given current market conditions. Our sovereign AI strategy continues to gain traction, with Grace Hopper showing particularly strong adoption among enterprise customers. We are investing significantly in sovereign AI because we believe this represents a generational opportunity. The early results from automotive validate our approach. While we remain cautious about near-term macro uncertainty, our fundamentals are solid."
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jensen. Let me walk through the financial details. Total revenue for Q3 2025 was $90.4 billion, representing growth of 22% year over year. Our data center revenue reached $28.6 billion, consistent with our expectations. Gross margin expanded 23.3%, reflecting our continued investment in growth. Operating expenses were well managed, and we generated $24.8 billion in free cash flow during the quarter. We returned $14 billion to shareholders through dividends and share repurchases. For H100, we saw 17% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Raimo Lenschow",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about sovereign AI. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Raimo. The data center revenue trend reflects the underlying strength in our business model. When you look at the unit economics, they continue to improve and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Kash Rangan",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in A100?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Kash. Great question. On gaming revenue, we are pleased with the progress on sovereign AI and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect A100 to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Karl Keirstead",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the gross margin trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Karl. Great question. On gross margin, we are pleased with the progress on sovereign AI and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect GeForce RTX to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Toni Sacconaghi",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "I wanted to ask about inference scaling. How much of your capital allocation is going toward this area, and when do you expect it to start contributing meaningfully to the top line?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Toni. Great question. On gaming revenue, we are pleased with the progress on inference scaling and continue to see steady adoption. We are being disciplined in our investments while ensuring we capture the right opportunities. We expect H100 to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  },
+  {
+    "company_name": "NVIDIA Corp.",
+    "ticker": "NVDA",
+    "cik": "0001045810",
+    "sector": "Technology",
+    "exchange": "NASDAQ",
+    "is_sp500": true,
+    "quarter": "Q4",
+    "year": 2025,
+    "turns": [
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "prepared_remarks",
+        "content": "Good afternoon, and welcome to the NVIDIA Corp. Q4 fiscal year 2025 earnings conference call. All lines have been placed on mute to prevent background noise. After the speakers' remarks, there will be a question and answer session. I would now like to turn the call over to the head of investor relations."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "prepared_remarks",
+        "content": "This was a challenging quarter as we navigated headwinds across several of our markets. In Q4 2025, backlog came in below expectations, reflecting ongoing challenges in the current environment. Our supply constraints strategy continues to gain traction, with DGX showing particularly strong adoption among enterprise customers. We are investing significantly in supply constraints because we believe this represents a generational opportunity. The early results from automotive validate our approach. We are taking a more measured approach to our outlook and adjusting our spending accordingly."
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "prepared_remarks",
+        "content": "Thank you, Jensen. Let me walk through the financial details. Total revenue for Q4 2025 was $104.4 billion, representing a decline of 1% year over year. Our data center revenue reached $13.6 billion, consistent with our expectations. Gross margin was 41.5%, benefiting from mix shift and operational efficiencies. Operating expenses were well managed, and we generated $8.4 billion in free cash flow during the quarter. We returned $2 billion to shareholders through dividends and share repurchases. For H100, we saw 13% growth, driven by enterprise adoption."
+      },
+      {
+        "speaker_name": "Mark Moerdler",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "My question is on the demand environment. Are you seeing any changes in customer behavior or deal cycles compared to last quarter, particularly in Grace Hopper?"
+      },
+      {
+        "speaker_name": "Colette Kress",
+        "speaker_role": "cfo",
+        "section_type": "qa",
+        "content": "Sure, Mark. The data center revenue trend reflects the underlying strength in our business model. When you look at the unit economics, we are working to stabilize them and that gives us confidence in the sustainability of these results."
+      },
+      {
+        "speaker_name": "Brad Zelnick",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Thank you for taking my question. Can you provide more color on the data center revenue trajectory? Specifically, how should we think about the sustainability of the growth rate you reported this quarter?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brad. Great question. On data center revenue, while the current environment presents challenges, we are taking proactive steps to position H100 for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect H100 to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Brent Thill",
+        "speaker_role": "analyst",
+        "section_type": "qa",
+        "content": "Can you help us understand the margin dynamics better? What is driving the pressure and how should we model this going forward?"
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thanks, Brent. Great question. On gaming revenue, while the current environment presents challenges, we are taking proactive steps to position GeForce RTX for recovery. We are focused on operational efficiency and protecting our long-term competitive position. We expect GeForce RTX to continue to be a meaningful growth driver as we move through the rest of the year. Let me hand it to Colette for the specific numbers."
+      },
+      {
+        "speaker_name": "Operator",
+        "speaker_role": "operator",
+        "section_type": "qa",
+        "content": "This concludes the question and answer session. I would like to turn the call back to management for closing remarks."
+      },
+      {
+        "speaker_name": "Jensen Huang",
+        "speaker_role": "ceo",
+        "section_type": "qa",
+        "content": "Thank you all for joining us today. We are excited about the opportunities ahead and look forward to updating you on our progress next quarter. Have a great evening."
+      }
+    ]
+  }
+]

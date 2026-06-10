@@ -1,9 +1,18 @@
 """
-Embedding generation using sentence-transformers.
+Embedding service for the Earnings Call Analyzer.
 
 This module wraps the all-MiniLM-L6-v2 model, which produces
 384-dimensional vectors from text. The model runs entirely
 locally with no API calls and no cost.
+
+Supports two backends:
+    - fastembed (ONNX Runtime): lightweight (~150MB), used on Render
+    - sentence-transformers (PyTorch): heavier (~400MB), used locally
+
+Both backends use the same model and produce compatible embeddings.
+The backend is selected automatically based on which library is
+installed. requirements.txt installs fastembed for Render;
+pyproject.toml installs sentence-transformers for local dev.
 
 Why all-MiniLM-L6-v2:
     - Free and open source
@@ -28,20 +37,42 @@ from src.config import get_settings
 logger = logging.getLogger(__name__)
 settings = get_settings()
 
+# Detect which embedding backend is available
+try:
+    from fastembed import TextEmbedding  # type: ignore[import-untyped]
+
+    _BACKEND = "fastembed"
+except ImportError:
+    _BACKEND = "sentence-transformers"
+
 
 @lru_cache(maxsize=1)
 def _load_model():  # type: ignore[no-untyped-def]
     """
-    Load the sentence-transformer model.
+    Load the embedding model using the available backend.
 
     Cached so it is loaded once and reused across all requests.
-    First load downloads the model (~80MB) if not already cached.
+    First load downloads the model if not already cached.
     Subsequent loads are instant from disk cache.
     """
+    model_name = settings.embedding_model
+
+    if _BACKEND == "fastembed":
+        logger.info(
+            "Loading embedding model via fastembed (ONNX): %s", model_name
+        )
+        # fastembed expects the full HuggingFace model path
+        full_name = f"sentence-transformers/{model_name}"
+        model = TextEmbedding(model_name=full_name)
+        logger.info("Model loaded via fastembed. Dimension: 384")
+        return model
+
+    # Fallback: sentence-transformers (heavier, used for local dev)
     from sentence_transformers import SentenceTransformer
 
-    model_name = settings.embedding_model
-    logger.info("Loading embedding model: %s", model_name)
+    logger.info(
+        "Loading embedding model via sentence-transformers: %s", model_name
+    )
     model = SentenceTransformer(model_name)
     logger.info(
         "Model loaded. Dimension: %d",
@@ -52,7 +83,11 @@ def _load_model():  # type: ignore[no-untyped-def]
 
 class Embedder:
     """
-    Generates text embeddings using sentence-transformers.
+    Generates text embeddings using all-MiniLM-L6-v2.
+
+    Automatically selects the lightweight fastembed backend (ONNX)
+    when available, falling back to sentence-transformers (PyTorch)
+    for local development.
 
     Usage:
         embedder = Embedder()
@@ -62,10 +97,14 @@ class Embedder:
 
     def __init__(self) -> None:
         self._model = _load_model()
+        self._backend = _BACKEND
+        logger.info("Embedder initialized with backend: %s", self._backend)
 
     @property
     def dimension(self) -> int:
         """Return the embedding dimension (384 for all-MiniLM-L6-v2)."""
+        if self._backend == "fastembed":
+            return 384
         return int(self._model.get_sentence_embedding_dimension())
 
     def embed_texts(
@@ -93,6 +132,14 @@ class Embedder:
 
         logger.debug("Embedding %d texts (batch_size=%d)", len(texts), batch_size)
 
+        if self._backend == "fastembed":
+            # fastembed returns a generator of numpy arrays
+            embeddings = list(
+                self._model.embed(texts, batch_size=batch_size)
+            )
+            return [emb.tolist() for emb in embeddings]
+
+        # sentence-transformers backend
         embeddings: NDArray[np.float32] = self._model.encode(
             texts,
             batch_size=batch_size,
@@ -119,6 +166,11 @@ class Embedder:
         Returns:
             A single embedding vector (list of floats)
         """
+        if self._backend == "fastembed":
+            embeddings = list(self._model.embed([query]))
+            return embeddings[0].tolist()
+
+        # sentence-transformers backend
         embedding: NDArray[np.float32] = self._model.encode(
             query,
             normalize_embeddings=True,

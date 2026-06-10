@@ -2,6 +2,7 @@
 
 import asyncio
 import logging
+import os
 from contextlib import asynccontextmanager
 from collections.abc import AsyncIterator
 from pathlib import Path
@@ -40,7 +41,7 @@ async def auto_seed_if_empty() -> None:
     try:
         # Ensure tables exist
         async with engine.begin() as conn:
-            await conn.execute(text("SELECT 1"))
+            await conn.execute(text("CREATE EXTENSION IF NOT EXISTS vector"))
             await conn.run_sync(Base.metadata.create_all)
 
         # Check if any companies exist
@@ -124,12 +125,23 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+# Build CORS origins list
+_cors_origins = [
+    "http://localhost:5173",
+    "http://localhost:3000",
+]
+
+# Add production frontend URL if set
+_frontend_url = os.environ.get("FRONTEND_URL", "")
+if _frontend_url:
+    _cors_origins.append(_frontend_url)
+    # Also allow the base domain without trailing slash
+    _cors_origins.append(_frontend_url.rstrip("/"))
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",
-        "http://localhost:3000",
-    ],
+    allow_origins=_cors_origins,
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

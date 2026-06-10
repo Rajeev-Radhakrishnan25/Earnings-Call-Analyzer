@@ -1,0 +1,30 @@
+# render.yaml - Render Blueprint for Earnings Call Analyzer Backend
+# Deploy via: https://render.com/deploy
+
+services:
+  - type: web
+    name: earnings-call-analyzer-api
+    runtime: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn src.api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: FRONTEND_URL
+        sync: false
+      - key: APP_ENV
+        value: production
+      - key: LOG_LEVEL
+        value: INFO
+      - key: EMBEDDING_MODEL
+        value: all-MiniLM-L6-v2
+      - key: EMBEDDING_DIMENSION
+        value: 384
+      - key: EDGAR_USER_AGENT
+        sync: false
+      - key: PYTHONUNBUFFERED
+        value: "1"
